@@ -1,0 +1,4658 @@
+[
+  {
+    "barcode": "06003326000178",
+    "description": "Carling Black Label Case 12x750ml"
+  },
+  {
+    "barcode": "06003326004558",
+    "description": "Castle Lager Case 12x750ml Rb"
+  },
+  {
+    "barcode": "08008440122087",
+    "description": "Peroni Case 24x330ml"
+  },
+  {
+    "barcode": "06003326012195",
+    "description": "Redd's Dry Can 500ml"
+  },
+  {
+    "barcode": "06003326014137",
+    "description": "Castle Lite Case 12x910ml Nrb"
+  },
+  {
+    "barcode": "06003326012317",
+    "description": "Flying Fish Pressed Lemon Promo Pack 330ml Cans"
+  },
+  {
+    "barcode": "06003326010405",
+    "description": "Castle Lite Ice Core Case 24x440ml"
+  },
+  {
+    "barcode": "06003326011822",
+    "description": "Castle Lager Promo Pack 340ml"
+  },
+  {
+    "barcode": "06003326011594",
+    "description": "Carvers Weiss Pack 6x440ml Cans"
+  },
+  {
+    "barcode": "06003326012706",
+    "description": "Hansa Pilsener Combo Pack"
+  },
+  {
+    "barcode": "06003326013543",
+    "description": "Flying Fish Apple Can 500ml"
+  },
+  {
+    "barcode": "06003326003322",
+    "description": "Redd's Original Bottle 660ml Rb"
+  },
+  {
+    "barcode": "06003326014700",
+    "description": "Brutal Fruit - Strawberry Bottle 275ml"
+  },
+  {
+    "barcode": "06003326011624",
+    "description": "Lion Lager Bottle 750ml Rb"
+  },
+  {
+    "barcode": "06003326013529",
+    "description": "Flying Fish Lemon Case 24x500ml Cans"
+  },
+  {
+    "barcode": "06003326005227",
+    "description": "Carling Black Label Case 24x330ml Cans"
+  },
+  {
+    "barcode": "06003326011860",
+    "description": "Redd's Rose Carnival Edition Rb Bottle 660ml Rb"
+  },
+  {
+    "barcode": "06009705710836",
+    "description": "Miller Genuine Draft Bottle 330ml"
+  },
+  {
+    "barcode": "06003326011938",
+    "description": "Castle Lite Can 500ml"
+  },
+  {
+    "barcode": "06003326010382",
+    "description": "Flying Fish Pressed Lemon Pack 12x330ml"
+  },
+  {
+    "barcode": "06003326012416",
+    "description": "Flying Fish Zesty Lemonade Bottle 330ml"
+  },
+  {
+    "barcode": "06003326012881",
+    "description": "Castle Lager Summer Of Can (6x330ml) Pack 6x330ml Cans"
+  },
+  {
+    "barcode": "06003326004572",
+    "description": "Hansa Pilsener Crate 12x750ml Rb"
+  },
+  {
+    "barcode": "06003326003643",
+    "description": "Hansa Pilsener Bottle 750ml Rb"
+  },
+  {
+    "barcode": "06003326014144",
+    "description": "Budweiser Pack 6x660ml Rb"
+  },
+  {
+    "barcode": "06003326000284",
+    "description": "Castle Lager Bottle 340ml"
+  },
+  {
+    "barcode": "06003326010702",
+    "description": "Flying Fish Apple Pack 6x330ml"
+  },
+  {
+    "barcode": "06003326014724",
+    "description": "Brutal Fruit - Strawberry Case 24x275ml Nrb"
+  },
+  {
+    "barcode": "06003326008365",
+    "description": "Hansa Pilsener Case 24x330ml"
+  },
+  {
+    "barcode": "05410228190592",
+    "description": "Leffe Blonde 6.6% Bottle 330ml"
+  },
+  {
+    "barcode": "06003326011563",
+    "description": "Carvers Weiss Bottle 440ml"
+  },
+  {
+    "barcode": "06003326004398",
+    "description": "Carling Black Label Bottle 330ml"
+  },
+  {
+    "barcode": "06003326012133",
+    "description": "Lion Lager Pack 6x500ml Cans"
+  },
+  {
+    "barcode": "06003326010719",
+    "description": "Flying Fish Apple Case 24x330ml"
+  },
+  {
+    "barcode": "06003326012119",
+    "description": "Castle Lager Case 12x500ml Cans"
+  },
+  {
+    "barcode": "06003326010672",
+    "description": "Flying Fish Apple Bottle 660ml Rb"
+  },
+  {
+    "barcode": "00083741150029",
+    "description": "Grolsch Pack 4x500ml Cans"
+  },
+  {
+    "barcode": "06003326013970",
+    "description": "Brutal Fruit - Ruby Apple Can 500ml"
+  },
+  {
+    "barcode": "06003326013918",
+    "description": "Flying Fish Lemon Can 500ml"
+  },
+  {
+    "barcode": "06003326010245",
+    "description": "Castle Lite Lime Bottle 660ml Rb"
+  },
+  {
+    "barcode": "06003326003629",
+    "description": "Castle Lager Bottle 750ml Rb"
+  },
+  {
+    "barcode": "06003326012065",
+    "description": "Carling Black Label Case 24x500ml Cans"
+  },
+  {
+    "barcode": "06003326003650",
+    "description": "Castle Milk Stout Bottle 750ml Rb"
+  },
+  {
+    "barcode": "06003326000840",
+    "description": "Redd's Dry Bottle 660ml Rb"
+  },
+  {
+    "barcode": "06003326010658",
+    "description": "Flying Fish Lemon Bottle 660ml Rb"
+  },
+  {
+    "barcode": "06003326001465",
+    "description": "Castle Lite Pack 6x340ml"
+  },
+  {
+    "barcode": "06003326004145",
+    "description": "Brutal Fruit - Mango Bottle 660ml Rb"
+  },
+  {
+    "barcode": "06003326003636",
+    "description": "Carling Black Label Bottle 750ml Rb"
+  },
+  {
+    "barcode": "06003326002950",
+    "description": "Castle Lite Bottle 660ml Rb"
+  },
+  {
+    "barcode": "06003326012676",
+    "description": "Budweiser Bottle 660ml Rb"
+  },
+  {
+    "barcode": "06003326011723",
+    "description": "Brutal Fruit - Cranberry Rose Bottle 660ml Rb"
+  },
+  {
+    "barcode": "06003326014342",
+    "description": "Brutal Fruit - Ruby Apple Bottle 275ml"
+  },
+  {
+    "barcode": "00000087167016",
+    "description": "Grolsch Bottle 450ml"
+  },
+  {
+    "barcode": "06003326005203",
+    "description": "Carling Black Label Can 330ml"
+  },
+  {
+    "barcode": "08716700016433",
+    "description": "Miller Genuine Draft Can 500ml"
+  },
+  {
+    "barcode": "06003326005432",
+    "description": "Castle Milk Stout Can 440ml"
+  },
+  {
+    "barcode": "06003326011976",
+    "description": "Castle Lite Lime Can 500ml"
+  },
+  {
+    "barcode": "06003326014762",
+    "description": "Brutal Fruit - Strawberry Rouge Can 500ml"
+  },
+  {
+    "barcode": "06003326012904",
+    "description": "Carling Black Label Summer Of Cans Pack 6x330ml Cans"
+  },
+  {
+    "barcode": "06003326012102",
+    "description": "Castle Lager Case 24x500ml Cans"
+  },
+  {
+    "barcode": "06003326012614",
+    "description": "Budweiser Bottle 330ml"
+  },
+  {
+    "barcode": "06003326012126",
+    "description": "Lion Lager Can 500ml"
+  },
+  {
+    "barcode": "06003326008402",
+    "description": "Castle Lite Case 12x340ml"
+  },
+  {
+    "barcode": "06003326013383",
+    "description": "Flying Fish Pressed Lemon Case 18x330ml"
+  },
+  {
+    "barcode": "06003326014038",
+    "description": "Redd's Dry Pack 6x330ml"
+  },
+  {
+    "barcode": "08716700004621",
+    "description": "Grolsch Premier Lager Case 24x500ml Cans"
+  },
+  {
+    "barcode": "06003326002936",
+    "description": "Castle Lite Bottle 340ml"
+  },
+  {
+    "barcode": "06003326009614",
+    "description": "Flying Fish Crushed Orange Bottle 330ml"
+  },
+  {
+    "barcode": "06003326009584",
+    "description": "Flying Fish Pressed Lemon Bottle 330ml"
+  },
+  {
+    "barcode": "06009536642153",
+    "description": "Carling Black Label Cup Promotion Bottle 750ml"
+  },
+  {
+    "barcode": "06003326013437",
+    "description": "Castle Milk Stout Bottle 500ml"
+  },
+  {
+    "barcode": "06003326008792",
+    "description": "Peroni Nastro Azzurro Can 440ml"
+  },
+  {
+    "barcode": "06003326011648",
+    "description": "Lion Lager Bottle 330ml"
+  },
+  {
+    "barcode": "06003326010870",
+    "description": "Carling Blue Label Bottle 660ml Rb"
+  },
+  {
+    "barcode": "06003326009447",
+    "description": "Castle Lite Pack 8x440ml"
+  },
+  {
+    "barcode": "00000087167474",
+    "description": "Grolsch Premium Lager Bottle 330ml"
+  },
+  {
+    "barcode": "06003326011396",
+    "description": "Newlands Spring Mountain Weiss Bottle 440ml"
+  },
+  {
+    "barcode": "06003326004312",
+    "description": "Castle Lager Bottle 330ml"
+  },
+  {
+    "barcode": "06003326013536",
+    "description": "Flying Fish Lemon Case 12x500ml Cans"
+  },
+  {
+    "barcode": "06003326011839",
+    "description": "Castle Lager Case 18x330ml Cans"
+  },
+  {
+    "barcode": "06003326011662",
+    "description": "Brutal Fruit - Cranberry Rose Bottle 275ml"
+  },
+  {
+    "barcode": "06003326005715",
+    "description": "Castle Lite Can 330ml"
+  },
+  {
+    "barcode": "06003326011525",
+    "description": "Liberado Beer Can 440ml"
+  },
+  {
+    "barcode": "06003326009287",
+    "description": "Castle Lite Bottle 440ml"
+  },
+  {
+    "barcode": "06003326012928",
+    "description": "Hansa Pilsener Summer Pack Pack 6x500ml"
+  },
+  {
+    "barcode": "06003326008563",
+    "description": "Carling Black Label Bottle 440ml"
+  },
+  {
+    "barcode": "06003326008341",
+    "description": "Hansa Pilsener Bottle 330ml"
+  },
+  {
+    "barcode": "06003326001168",
+    "description": "Carling Black Label Case 24x340ml"
+  },
+  {
+    "barcode": "06003326012355",
+    "description": "Carling Black Label Hummer Bottle 1ltr"
+  },
+  {
+    "barcode": "06003326004497",
+    "description": "Carling Black Label Bottle 340ml"
+  },
+  {
+    "barcode": "06003326012362",
+    "description": "Castle Lager Hummer Bottle 1ltr"
+  },
+  {
+    "barcode": "06003326008419",
+    "description": "Castle Lite Case 18x340ml"
+  },
+  {
+    "barcode": "06003326008006",
+    "description": "Redd's Cold Bottle 330ml"
+  },
+  {
+    "barcode": "06003326004404",
+    "description": "Hansa Pilsener Bottle 330ml"
+  },
+  {
+    "barcode": "06003326001809",
+    "description": "Castle Milk Stout Case 24x340ml"
+  },
+  {
+    "barcode": "06003326001229",
+    "description": "Castle Lite Case 24x340ml"
+  },
+  {
+    "barcode": "06003326001519",
+    "description": "Castle Lager Can 330ml"
+  },
+  {
+    "barcode": "06003326012799",
+    "description": "Castle Lager Case 12x340ml (promo)"
+  },
+  {
+    "barcode": "06003326013857",
+    "description": "Hansa Golden Crisp Can 500ml"
+  },
+  {
+    "barcode": "06003326009935",
+    "description": "Castle Milk Stout Bottle 330ml"
+  },
+  {
+    "barcode": "06003326010269",
+    "description": "Castle Lite Lime Bottle 340ml"
+  },
+  {
+    "barcode": "06003326012157",
+    "description": "Lion Lager Case 12x500ml Cans"
+  },
+  {
+    "barcode": "06003326012607",
+    "description": "Carling Black Label Case 18x340ml"
+  },
+  {
+    "barcode": "06003326010696",
+    "description": "Flying Fish Apple Bottle 330ml"
+  },
+  {
+    "barcode": "06003326007979",
+    "description": "Redd's Dry Bottle 330ml"
+  },
+  {
+    "barcode": "07393714507686",
+    "description": "Kopparberg Cider Strawberry Lime Bottle 330ml"
+  },
+  {
+    "barcode": "06003326012089",
+    "description": "Castle Lager Can 500ml"
+  },
+  {
+    "barcode": "06003326010009",
+    "description": "Castle Milk Stout Chocolate Can 440ml"
+  },
+  {
+    "barcode": "00083741150012",
+    "description": "Grolsch Premier Lager Tall Can 500ml"
+  },
+  {
+    "barcode": "06003326013567",
+    "description": "Flying Fish Apple Case 24x500ml Cans"
+  },
+  {
+    "barcode": "08594404110127",
+    "description": "Pilsner Urquell Bottle 330ml"
+  },
+  {
+    "barcode": "06003326013758",
+    "description": "Castle Lite Bottle 250ml"
+  },
+  {
+    "barcode": "07393714501189",
+    "description": "Kopparberg Cider Pear Perry Bottle 330ml"
+  },
+  {
+    "barcode": "07501064191466",
+    "description": "Corona Extra Beer Mexican Premium Pack 6x355ml"
+  },
+  {
+    "barcode": "07393714507808",
+    "description": "Kopparberg Cider Raspberry Bottle 330ml"
+  },
+  {
+    "barcode": "06003326005135",
+    "description": "Castle Lager Case 24x330ml Cans"
+  },
+  {
+    "barcode": "05410228217732",
+    "description": "Stella Artois Can 440ml"
+  },
+  {
+    "barcode": "06003326012256",
+    "description": "Castle 1895 Draught Can 500ml"
+  },
+  {
+    "barcode": "06003326012003",
+    "description": "Hansa Pilsener Can 500ml"
+  },
+  {
+    "barcode": "06003326010177",
+    "description": "Castle 1895 Draught Bottle 440ml"
+  },
+  {
+    "barcode": "06003326012386",
+    "description": "Castle Lite Bottle 910ml"
+  },
+  {
+    "barcode": "06003326011495",
+    "description": "Liberado Beer Bottle 330ml"
+  },
+  {
+    "barcode": "06003326008754",
+    "description": "Carling Black Label Case 12x340ml"
+  },
+  {
+    "barcode": "06003326011846",
+    "description": "Castle Lite Case 18x330ml Cans"
+  },
+  {
+    "barcode": "06003326012492",
+    "description": "Stella Artois Xmas Gift Pack Bottle 750ml"
+  },
+  {
+    "barcode": "06003326012508",
+    "description": "Stella Artois Bottle 330ml"
+  },
+  {
+    "barcode": "06003326012539",
+    "description": "Stella Artois Bottle 500ml"
+  },
+  {
+    "barcode": "06003326011884",
+    "description": "Redd's Rose Can 440ml"
+  },
+  {
+    "barcode": "06009705711000",
+    "description": "Miller Genuine Draft Can 500ml"
+  },
+  {
+    "barcode": "06003326012041",
+    "description": "Carling Black Label Can 500ml"
+  },
+  {
+    "barcode": "06003326013628",
+    "description": "Castle Lite Pack 4x910ml Rb"
+  },
+  {
+    "barcode": "06003326014045",
+    "description": "Redd's Original Pack 6x330ml"
+  },
+  {
+    "barcode": "06003326013949",
+    "description": "Brutal Fruit - Ruby Apple Bottle 275ml"
+  },
+  {
+    "barcode": "00018200004735",
+    "description": "Budweiser Bottle 473ml"
+  },
+  {
+    "barcode": "06009653530296",
+    "description": "Castle Milk Stout Bottle 340ml"
+  },
+  {
+    "barcode": "06003326011969",
+    "description": "Castle Lite Case 12x500ml Cans"
+  },
+  {
+    "barcode": "06003326005142",
+    "description": "Hansa Pilsener Can 330ml"
+  },
+  {
+    "barcode": "06003326009188",
+    "description": "Castle Lager Case 12x340ml"
+  },
+  {
+    "barcode": "06003326001397",
+    "description": "Castle Lager Pack 6x340ml"
+  },
+  {
+    "barcode": "00000075032814",
+    "description": "Corona Extra Beer Mexican Premium Bottle 355ml"
+  },
+  {
+    "barcode": "07501064191459",
+    "description": "Corona Extra Beer Mexican Premium Case 24x355ml"
+  },
+  {
+    "barcode": "06003326009645",
+    "description": "Flying Fish Lemon Can 440ml"
+  },
+  {
+    "barcode": "00000075061876",
+    "description": "Corona Coronita Bottle 210ml"
+  },
+  {
+    "barcode": "06003326012072",
+    "description": "Carling Black Label Case 12x500ml Cans"
+  },
+  {
+    "barcode": "06003326001816",
+    "description": "Castle Milk Stout Pack 6x340ml"
+  },
+  {
+    "barcode": "06003326012744",
+    "description": "Castle Free Lager Can 500ml"
+  },
+  {
+    "barcode": "06003326011426",
+    "description": "Newlands Spring Jacobs Pale Ale Bottle 440ml"
+  },
+  {
+    "barcode": "06003326012713",
+    "description": "Castle Free Lager Bottle 340ml"
+  },
+  {
+    "barcode": "06003326004442",
+    "description": "Brutal Fruit - Lemon Bottle 275ml"
+  },
+  {
+    "barcode": "06003326003346",
+    "description": "Brutal Fruit - Strawberry Bottle 275ml"
+  },
+  {
+    "barcode": "00082488143004",
+    "description": "Beck's Green Bottle 330ml"
+  },
+  {
+    "barcode": "06003326011631",
+    "description": "Lion Lager Case 12x750ml Rb"
+  },
+  {
+    "barcode": "06003326011945",
+    "description": "Castle Lite Pack 6x500ml Cans"
+  },
+  {
+    "barcode": "06003326012058",
+    "description": "Carling Black Label Pack 6x500ml Cans"
+  },
+  {
+    "barcode": "00083741531460",
+    "description": "Grolsch Crown Cork Pack 6x330ml"
+  },
+  {
+    "barcode": "06009705710843",
+    "description": "Miller Genuine Draft Pack 6x330ml"
+  },
+  {
+    "barcode": "06003326013765",
+    "description": "Castle Lite Pack 6x250ml"
+  },
+  {
+    "barcode": "06003326012010",
+    "description": "Hansa Pilsener Pack 6x500ml Cans"
+  },
+  {
+    "barcode": "08008440522016",
+    "description": "Peroni Nastro Azzurro Pack 6x330ml"
+  },
+  {
+    "barcode": "06003326001410",
+    "description": "Carling Black Label Pack 6x340ml"
+  },
+  {
+    "barcode": "06003326012621",
+    "description": "Budweiser Pack 6x330ml"
+  },
+  {
+    "barcode": "06003326012546",
+    "description": "Stella Artois Local Brew Pack 6x500ml Cans"
+  },
+  {
+    "barcode": "06003326012096",
+    "description": "Castle Lager Pack 6x500ml Cans"
+  },
+  {
+    "barcode": "08008440222008",
+    "description": "Peroni Nastro Azzurro Bottle 330ml"
+  },
+  {
+    "barcode": "06003326009591",
+    "description": "Flying Fish Pressed Lemon Pack 6x330ml"
+  },
+  {
+    "barcode": "06003326001144",
+    "description": "Castle Lager Case 24x340ml"
+  },
+  {
+    "barcode": "06009705710850",
+    "description": "Miller Genuine Draft Case 24x330ml"
+  },
+  {
+    "barcode": "06003326014786",
+    "description": "Brutal Fruit - Strawberry Rouge Case 24x500ml Cans"
+  },
+  {
+    "barcode": "06009705710867",
+    "description": "Miller Genuine Draft Pack 12x330ml"
+  },
+  {
+    "barcode": "06003326010979",
+    "description": "Newlands Spring Passionate Blonde Bottle 440ml"
+  },
+  {
+    "barcode": "06003326012164",
+    "description": "Redd's Original Can 500ml"
+  },
+  {
+    "barcode": "06003326010726",
+    "description": "Flying Fish Apple Can 440ml"
+  },
+  {
+    "barcode": "00000042061946",
+    "description": "Beck's Blue 0% Bottle 330ml"
+  },
+  {
+    "barcode": "16001108035827",
+    "description": "Savanna Dry Case 24x330ml"
+  },
+  {
+    "barcode": "06001452578004",
+    "description": "Overmeer Red Bib 5ltr"
+  },
+  {
+    "barcode": "06001496566050",
+    "description": "Clubman Mint Punch Bottle 750ml"
+  },
+  {
+    "barcode": "06001108087065",
+    "description": "Viceroy Makoya (oval) Bottle 200ml (oval)"
+  },
+  {
+    "barcode": "06001495001101",
+    "description": "Richelieu Bottle 1ltr (oval)"
+  },
+  {
+    "barcode": "06001108097552",
+    "description": "Esprit Watermelon & Strawberry Bottle 275ml"
+  },
+  {
+    "barcode": "06001108052032",
+    "description": "Moby Dick Rum Bottle 750ml"
+  },
+  {
+    "barcode": "06001108094193",
+    "description": "Bain's Cape Mountain Whisky Gift Pack Bottle 750ml"
+  },
+  {
+    "barcode": "06001108056535",
+    "description": "Jc Le Roux Brut Bottle 750ml"
+  },
+  {
+    "barcode": "06001496010508",
+    "description": "Klipdrift Export Bottle 50ml"
+  },
+  {
+    "barcode": "06001496566012",
+    "description": "Clubman Mint Punch Bottle 200ml"
+  },
+  {
+    "barcode": "06001108064288",
+    "description": "Hunter's Gold Can 440ml"
+  },
+  {
+    "barcode": "06001108102676",
+    "description": "Bernini Amber Can 440ml"
+  },
+  {
+    "barcode": "06001108101457",
+    "description": "Cruz Vodka Banana Deluxe Bottle 750ml"
+  },
+  {
+    "barcode": "06001108081582",
+    "description": "Hunter's Extreme Bold Can 440ml"
+  },
+  {
+    "barcode": "06001452015509",
+    "description": "Chateau Vo Bottle 375ml"
+  },
+  {
+    "barcode": "06001496568016",
+    "description": "Mokador Bottle 750ml"
+  },
+  {
+    "barcode": "06001496560034",
+    "description": "Castle Brand Bottle 375ml"
+  },
+  {
+    "barcode": "06001108078025",
+    "description": "Nederburg 5600 Merlot Bottle 750ml"
+  },
+  {
+    "barcode": "06001108058560",
+    "description": "Place In The Sun Fairtrade Cabernet Sauvignon Bottle 750ml"
+  },
+  {
+    "barcode": "06001108102652",
+    "description": "Bernini Classic Can 440ml"
+  },
+  {
+    "barcode": "06001452611008",
+    "description": "Monis Medium Cream Bottle 750ml"
+  },
+  {
+    "barcode": "06001495200146",
+    "description": "Drostdy-hof Claret Select Bottle 375ml"
+  },
+  {
+    "barcode": "05029704219742",
+    "description": "Scottish Leader Soweto Heart Bottle 750ml"
+  },
+  {
+    "barcode": "06001495031665",
+    "description": "Seven Seas Bottle 750ml"
+  },
+  {
+    "barcode": "06001108051172",
+    "description": "Jc Le Roux La Fleurette Bottle 187ml"
+  },
+  {
+    "barcode": "06001108097514",
+    "description": "Esprit Mango & Chilli Can 440ml"
+  },
+  {
+    "barcode": "06001108036636",
+    "description": "Savanna Dry Bottle 500ml"
+  },
+  {
+    "barcode": "06001495062508",
+    "description": "Amarula Cream Bottle 750ml"
+  },
+  {
+    "barcode": "06001496301804",
+    "description": "Cellar Cask Johannisberger Red Bottle 750ml"
+  },
+  {
+    "barcode": "06001108074850",
+    "description": "Nederburg Baronne Ltd Edition Bottle 1.5ltr"
+  },
+  {
+    "barcode": "06001108097071",
+    "description": "Edge Bottle 330ml"
+  },
+  {
+    "barcode": "06001495211500",
+    "description": "Taverna Rouge Bottle 750ml"
+  },
+  {
+    "barcode": "06001452613002",
+    "description": "Monis Pale Dry Bottle 750ml"
+  },
+  {
+    "barcode": "06001452035002",
+    "description": "Mellow-wood Bottle 750ml"
+  },
+  {
+    "barcode": "06001108095428",
+    "description": "Van Ryn's 10yo Bottle 750ml"
+  },
+  {
+    "barcode": "06001108077981",
+    "description": "Savanna Dry Angry Lemon Bottle 330ml"
+  },
+  {
+    "barcode": "06001495001064",
+    "description": "Richelieu Bottle 375ml"
+  },
+  {
+    "barcode": "06001108075666",
+    "description": "Hunter's Dry Pack 12x440ml Cans"
+  },
+  {
+    "barcode": "06001108037374",
+    "description": "Count Pushkin Premium Bottle 50ml"
+  },
+  {
+    "barcode": "06001452143028",
+    "description": "Chateau Vo Bottle 750ml"
+  },
+  {
+    "barcode": "06001496010553",
+    "description": "Klipdrift Export Bottle 375ml"
+  },
+  {
+    "barcode": "06001108076861",
+    "description": "Amarula Cream & Glass In Kdf (2019) Bottle 750ml"
+  },
+  {
+    "barcode": "06001452113014",
+    "description": "Knight's Whisky Bottle 750ml"
+  },
+  {
+    "barcode": "06001108087218",
+    "description": "Hunter's Edge Bottle 330ml"
+  },
+  {
+    "barcode": "06001497114007",
+    "description": "Jc Le Roux La Chanson Bottle 750ml"
+  },
+  {
+    "barcode": "06001452122306",
+    "description": "Graca Ros? Bottle 750ml"
+  },
+  {
+    "barcode": "06001452123006",
+    "description": "Romanoff Bottle 750ml"
+  },
+  {
+    "barcode": "06001108085061",
+    "description": "Savanna Jean Bottle 330ml"
+  },
+  {
+    "barcode": "06001108093950",
+    "description": "Bernini Blush Bottle 440ml"
+  },
+  {
+    "barcode": "06001452484008",
+    "description": "Plaisir De Merle Grand Plaisir Bottle 750ml"
+  },
+  {
+    "barcode": "06001452261401",
+    "description": "Zonnebloem Shiraz Bottle 750ml"
+  },
+  {
+    "barcode": "06001108072955",
+    "description": "Amarula Gold Bottle 750ml"
+  },
+  {
+    "barcode": "06001108090065",
+    "description": "Bernini Classic Can 250ml"
+  },
+  {
+    "barcode": "06001496010614",
+    "description": "Klipdrift Export Bottle 1ltr (oval)"
+  },
+  {
+    "barcode": "06001108058430",
+    "description": "Pongracz Bottle 375ml"
+  },
+  {
+    "barcode": "06001108049582",
+    "description": "4th Street Natural Sweet Red Bottle 750ml"
+  },
+  {
+    "barcode": "06001108002884",
+    "description": "Obikwa Pinotage Bottle 750ml"
+  },
+  {
+    "barcode": "06001108050397",
+    "description": "Three Ship's 5yo Bottle 375ml"
+  },
+  {
+    "barcode": "06001495000388",
+    "description": "Durbanville Hills Merlot Bottle 750ml"
+  },
+  {
+    "barcode": "06001452262804",
+    "description": "Zonnebloem Merlot Bottle 750ml"
+  },
+  {
+    "barcode": "16001108039757",
+    "description": "Hunter's Dry Case 24x330ml"
+  },
+  {
+    "barcode": "06001108093417",
+    "description": "Count Pushkin Mango Bottle 750ml"
+  },
+  {
+    "barcode": "06001108070852",
+    "description": "Pongracz Desiderius (2008 - 2013) Bottle 750ml"
+  },
+  {
+    "barcode": "06001108097224",
+    "description": "Extreme Pack 6x275ml"
+  },
+  {
+    "barcode": "06001496010584",
+    "description": "Klipdrift Export Case 12x750ml"
+  },
+  {
+    "barcode": "06001452475006",
+    "description": "Plaisir De Merle Chardonnay Bottle 750ml"
+  },
+  {
+    "barcode": "06001496040017",
+    "description": "Gordon's Gin Bottle 50ml"
+  },
+  {
+    "barcode": "06001452212007",
+    "description": "Zonnebloem Sauvignon Blanc Bottle 750ml"
+  },
+  {
+    "barcode": "06001108103376",
+    "description": "Vawter Grapefruit Pack 6x440ml Cans"
+  },
+  {
+    "barcode": "06001108085009",
+    "description": "Savanna Jean Pack 6x330ml"
+  },
+  {
+    "barcode": "06001108067951",
+    "description": "Klipdrift Black Gold Bottle 750ml"
+  },
+  {
+    "barcode": "06001496304560",
+    "description": "Castelo Gingerfizz Bottle 2ltr"
+  },
+  {
+    "barcode": "06001108035264",
+    "description": "Hunter's Dry Can 330ml"
+  },
+  {
+    "barcode": "06001108054692",
+    "description": "Savanna Jean Bottle 500ml"
+  },
+  {
+    "barcode": "06001108057761",
+    "description": "Autumn Harvest Crackling Red Bottle 750ml"
+  },
+  {
+    "barcode": "06001495020027",
+    "description": "Harrier Finest Matured Whisky Bottle 1ltr"
+  },
+  {
+    "barcode": "06001108102690",
+    "description": "Bernini Amber Bottle 275ml"
+  },
+  {
+    "barcode": "06001108028044",
+    "description": "Savanna Dry Bottle 330ml"
+  },
+  {
+    "barcode": "06001452371506",
+    "description": "Nederburg Shiraz Bottle 750ml"
+  },
+  {
+    "barcode": "06001108073587",
+    "description": "Jc Le Roux La Fleurette Light Pack 6x250ml Cans"
+  },
+  {
+    "barcode": "06001496568061",
+    "description": "Mokador Bottle 200ml"
+  },
+  {
+    "barcode": "06001452588003",
+    "description": "Oom Tas Bottle 2ltr"
+  },
+  {
+    "barcode": "06001108045102",
+    "description": "Two Oceans Pinot Grigio Bottle 750ml"
+  },
+  {
+    "barcode": "06001108027849",
+    "description": "Klipdrift Premium Bottle 50ml"
+  },
+  {
+    "barcode": "06001496304522",
+    "description": "Castelo Gingerfizz Bottle 750ml"
+  },
+  {
+    "barcode": "06001452182003",
+    "description": "5th Avenue Cold Duck Bottle 750ml"
+  },
+  {
+    "barcode": "06001496303549",
+    "description": "Paarl Perle Bottle 2ltr"
+  },
+  {
+    "barcode": "06001108075994",
+    "description": "Lomond Smv Bottle 750ml"
+  },
+  {
+    "barcode": "06001108065063",
+    "description": "Nederburg 5600 Sauvignon Blanc Bottle 750ml"
+  },
+  {
+    "barcode": "06001496303501",
+    "description": "Paarl Perle Bottle 750ml"
+  },
+  {
+    "barcode": "06001452301862",
+    "description": "Nederburg Cabernet Sauvignon Bottle 750ml"
+  },
+  {
+    "barcode": "06001108021069",
+    "description": "Drostdy-hof Natural Sweet White Bottle 750ml"
+  },
+  {
+    "barcode": "06001108069030",
+    "description": "Jc Le Roux Apple Blossom & Zesty Citrus Can 250ml"
+  },
+  {
+    "barcode": "06001108101051",
+    "description": "4th Street Cool Botan White Can 440ml"
+  },
+  {
+    "barcode": "05029704217861",
+    "description": "Scottish Leader Original Whisky Bottle 750ml"
+  },
+  {
+    "barcode": "06001108028945",
+    "description": "Hunter's Export Bottle 660ml Rb"
+  },
+  {
+    "barcode": "06001108055194",
+    "description": "Hunter's Dry Pack 6x330ml"
+  },
+  {
+    "barcode": "06001108086167",
+    "description": "Count Pushkin Premium Bottle 750ml Rb"
+  },
+  {
+    "barcode": "06001108001481",
+    "description": "Hunter's Dry Bottle 660ml Rb"
+  },
+  {
+    "barcode": "06001108040503",
+    "description": "Jc Le Roux La Fleurette Bottle 750ml"
+  },
+  {
+    "barcode": "06001108092717",
+    "description": "Cruz Vodka Pineapple Bottle 750ml"
+  },
+  {
+    "barcode": "06001495062478",
+    "description": "Amarula Cream Bottle 375ml"
+  },
+  {
+    "barcode": "06001497404566",
+    "description": "Allesverloren Shiraz Bottle 750ml"
+  },
+  {
+    "barcode": "06001108098573",
+    "description": "Hunter's Export Can 440ml"
+  },
+  {
+    "barcode": "06001452364010",
+    "description": "Three Ship's 5yo Bottle 750ml"
+  },
+  {
+    "barcode": "06001108089809",
+    "description": "Hunter's Edge Pack 12x440ml Cans"
+  },
+  {
+    "barcode": "06001452647007",
+    "description": "Zorba Bottle 750ml"
+  },
+  {
+    "barcode": "06001108029157",
+    "description": "Lomond Estate Sauvignon Blanc Bottle 750ml"
+  },
+  {
+    "barcode": "06001108023032",
+    "description": "Lomond Pincushion Sauvignon Blanc Bottle 750ml"
+  },
+  {
+    "barcode": "06001108027481",
+    "description": "Drostdy-hof Natural Sweet Rose Bottle 1.5ltr"
+  },
+  {
+    "barcode": "06001495003471",
+    "description": "Flat Roof Manor Sauvignon Blanc Light & Pinot Grigio & Mini Ice Bucket (pick 'n Pay) Bottle 750ml"
+  },
+  {
+    "barcode": "06001108101563",
+    "description": "Pongracz Brut In Kdf (2020) Bottle 750ml"
+  },
+  {
+    "barcode": "06001108098559",
+    "description": "Hunters Hard Lemon Can 440ml"
+  },
+  {
+    "barcode": "06001108097477",
+    "description": "Esprit Blueberry & Basil Can 440ml"
+  },
+  {
+    "barcode": "06001496011796",
+    "description": "Viceroy 5yo Bottle 750ml"
+  },
+  {
+    "barcode": "06001452282826",
+    "description": "Nederburg Cabernet Sauvignon Bottle 1.5ltr"
+  },
+  {
+    "barcode": "06001108097750",
+    "description": "Extreme Bold Can 440ml"
+  },
+  {
+    "barcode": "06001108088802",
+    "description": "Klipdrift Ngqo Can 440ml"
+  },
+  {
+    "barcode": "06001452245005",
+    "description": "Chateau Libertas Bottle 250ml"
+  },
+  {
+    "barcode": "06001496560010",
+    "description": "Castle Brand Bottle 200ml"
+  },
+  {
+    "barcode": "06001452377003",
+    "description": "Autumn Harvest Crackling Bottle 1ltr"
+  },
+  {
+    "barcode": "06001108002730",
+    "description": "Klipdrift & Cola Bottle 275ml"
+  },
+  {
+    "barcode": "06001108045171",
+    "description": "Savanna Dry Pack 6x330ml"
+  },
+  {
+    "barcode": "06001108055255",
+    "description": "Hunter's Hard Lemon Bottle 330ml"
+  },
+  {
+    "barcode": "06001495031597",
+    "description": "Seven Seas Bottle 1ltr"
+  },
+  {
+    "barcode": "06001108036285",
+    "description": "Knight's Whisky Bottle 200ml"
+  },
+  {
+    "barcode": "06001497114809",
+    "description": "Jc Le Roux Scintilla Bottle 750ml"
+  },
+  {
+    "barcode": "06001108092694",
+    "description": "Cruz Vodka Berrylicious Bottle 750ml"
+  },
+  {
+    "barcode": "06001108097491",
+    "description": "Esprit Mango & Chilli Bottle 275ml"
+  },
+  {
+    "barcode": "06001495020003",
+    "description": "Harrier Finest Matured Whisky Bottle 750ml"
+  },
+  {
+    "barcode": "06001108050106",
+    "description": "Flat Roof Manor Shiraz/mourvedere/viognier Bottle 750ml"
+  },
+  {
+    "barcode": "06001108055231",
+    "description": "Hunter's Gold Bottle 330ml"
+  },
+  {
+    "barcode": "06001496011048",
+    "description": "Limosin Extra Fine Bottle 200ml"
+  },
+  {
+    "barcode": "06001452325899",
+    "description": "Nederburg Chardonnay Bottle 750ml"
+  },
+  {
+    "barcode": "06001108101600",
+    "description": "Hunter's Chill 0% Bottle 330ml"
+  },
+  {
+    "barcode": "16001108039788",
+    "description": "Hunter's Gold Case 24x330ml"
+  },
+  {
+    "barcode": "06001108055187",
+    "description": "Hunter's Dry Bottle 330ml"
+  },
+  {
+    "barcode": "06001108001535",
+    "description": "Hunter's Extreme Bottle 275ml"
+  },
+  {
+    "barcode": "06001495000265",
+    "description": "Durbanville Hills Rhinofields Merlot Bottle 750ml"
+  },
+  {
+    "barcode": "06001108089205",
+    "description": "Jc Le Roux Vibrazio Sauvignon Blanc Bottle 750ml"
+  },
+  {
+    "barcode": "06001452258906",
+    "description": "Zonnebloem Cabernet Sauvignon Bottle 750ml"
+  },
+  {
+    "barcode": "06001108090089",
+    "description": "Bernini Blush Can 250ml"
+  },
+  {
+    "barcode": "06001108056832",
+    "description": "Pongracz Rose Bottle 750ml"
+  },
+  {
+    "barcode": "06001108092595",
+    "description": "Durbanville Hills Collector's Reserve Pinotage Bottle 750ml"
+  },
+  {
+    "barcode": "06001108090102",
+    "description": "Savanna Dry Pack 12x330ml"
+  },
+  {
+    "barcode": "06001452152006",
+    "description": "Three Ship's Select Bottle 750ml"
+  },
+  {
+    "barcode": "06001108054159",
+    "description": "Durbanville Hills Merlot Rose Bottle 750ml"
+  },
+  {
+    "barcode": "06001496311100",
+    "description": "Fleur Du Cap Merlot Bottle 750ml"
+  },
+  {
+    "barcode": "06001108090607",
+    "description": "Van Ryn's 15yo Bottle 750ml"
+  },
+  {
+    "barcode": "06001495000449",
+    "description": "Durbanville Hills Sauvignon Blanc Bottle 750ml"
+  },
+  {
+    "barcode": "06001108081629",
+    "description": "Hunter's Extreme Can 250ml"
+  },
+  {
+    "barcode": "06001108088147",
+    "description": "Three Ships 5yr With 2 Glasses Bottle 750ml"
+  },
+  {
+    "barcode": "06001108068972",
+    "description": "Amarula Cream Bottle 200ml"
+  },
+  {
+    "barcode": "06001108087515",
+    "description": "Hunter's Dry Pack 12x440ml Cans"
+  },
+  {
+    "barcode": "06001452632003",
+    "description": "Sedgwick's Old Brown Bottle 750ml"
+  },
+  {
+    "barcode": "06001452314503",
+    "description": "Nederburg Lyric Bottle 750ml"
+  },
+  {
+    "barcode": "06001108046369",
+    "description": "Autumn Harvest Crackling Rose Bottle 1.5ltr"
+  },
+  {
+    "barcode": "06001452262408",
+    "description": "Zonnebloem Laureat Bottle 750ml"
+  },
+  {
+    "barcode": "06001108058829",
+    "description": "Autumn Harvest Crackling Red Bottle 1.5ltr"
+  },
+  {
+    "barcode": "06001108094070",
+    "description": "Bernini Ruby Berry Bottle 440ml"
+  },
+  {
+    "barcode": "06001108057488",
+    "description": "Plaisir De Merle Grand Brut Mcc Bottle 750ml"
+  },
+  {
+    "barcode": "06001108089304",
+    "description": "Savanna Loco Bottle 500ml"
+  },
+  {
+    "barcode": "06001495000418",
+    "description": "Durbanville Hills Pinotage Bottle 750ml"
+  },
+  {
+    "barcode": "06001108097231",
+    "description": "Extreme Can 440ml"
+  },
+  {
+    "barcode": "06001452296861",
+    "description": "Nederburg Baronne Bottle 750ml"
+  },
+  {
+    "barcode": "06001108088567",
+    "description": "Richelieu & Glass (2020) Bottle 750ml"
+  },
+  {
+    "barcode": "06001108073808",
+    "description": "4th Street Sweet White Bottle 300ml"
+  },
+  {
+    "barcode": "06001108036827",
+    "description": "Autumn Harvest Crackling Rose Bottle 750ml"
+  },
+  {
+    "barcode": "06001108092588",
+    "description": "Durbanville Hills Collector's Reserve Merlot Bottle 750ml"
+  },
+  {
+    "barcode": "06001108092601",
+    "description": "Durbanville Hills Collector's Reserve Sauvignon Blanc Bottle 750ml"
+  },
+  {
+    "barcode": "16001108039795",
+    "description": "Hunter's Hard Lemon Case 24x330ml"
+  },
+  {
+    "barcode": "06001108087508",
+    "description": "Hunter's Extreme Case 12x440ml Cans Value Pack"
+  },
+  {
+    "barcode": "06001452015004",
+    "description": "Chateau Vo Bottle 200ml"
+  },
+  {
+    "barcode": "06001497404603",
+    "description": "Allesverloren Shiraz Bottle 1.5ltr"
+  },
+  {
+    "barcode": "06001108021083",
+    "description": "Drostdy-hof Natural Sweet Rose Bottle 750ml"
+  },
+  {
+    "barcode": "06001108063854",
+    "description": "Amarula Cream & 2 Glasses (2020) Bottle 750ml"
+  },
+  {
+    "barcode": "06001496010010",
+    "description": "Klipdrift Premium Bottle 750ml"
+  },
+  {
+    "barcode": "06001108095886",
+    "description": "Cruz Vodka Manhattan Blossom Bottle 750ml"
+  },
+  {
+    "barcode": "06001108074058",
+    "description": "Allesverloren Red Muscadel Bottle 750ml"
+  },
+  {
+    "barcode": "06001497416019",
+    "description": "Allesverloren Cabernet Sauvignon Bottle 750ml"
+  },
+  {
+    "barcode": "06001108092304",
+    "description": "Durbanville Hills Sauvignon Blanc Sparkling Kdf (2020) Bottle 750ml"
+  },
+  {
+    "barcode": "06001452515009",
+    "description": "Peche Royale Bottle 750ml"
+  },
+  {
+    "barcode": "06001108091369",
+    "description": "Cruz Vodka Berrylicious & 2 Tonic Waters Bottle 750ml"
+  },
+  {
+    "barcode": "06001108066886",
+    "description": "Lomond Ssv White Blend Bottle 750ml"
+  },
+  {
+    "barcode": "06001496011772",
+    "description": "Viceroy 5yo Bottle 375ml"
+  },
+  {
+    "barcode": "06001108044556",
+    "description": "Pongracz Rose Bottle 750ml"
+  },
+  {
+    "barcode": "06001108089564",
+    "description": "Viceroy Makoya Bottle 750ml"
+  },
+  {
+    "barcode": "06001495201501",
+    "description": "Drostdy-hof Claret Select Bottle 750ml"
+  },
+  {
+    "barcode": "06001497112010",
+    "description": "Jc Le Roux Le Domaine Bottle 750ml"
+  },
+  {
+    "barcode": "06001452631006",
+    "description": "Sedgwick's Old Brown Bottle 1ltr"
+  },
+  {
+    "barcode": "06001496313012",
+    "description": "Fleur Du Cap Sauvignon Blanc Bottle 750ml"
+  },
+  {
+    "barcode": "06001452252300",
+    "description": "Zonnebloem Chardonnay Bottle 750ml"
+  },
+  {
+    "barcode": "06001108081605",
+    "description": "Hunter's Extreme Bold Can 250ml"
+  },
+  {
+    "barcode": "16001108051711",
+    "description": "Savanna Dry Case 12x500ml Nrb"
+  },
+  {
+    "barcode": "06001108088673",
+    "description": "Esprit Apple Cherry Can 440ml"
+  },
+  {
+    "barcode": "06001108098597",
+    "description": "Count Pushkin Pineapple Bottle 750ml"
+  },
+  {
+    "barcode": "06001496314033",
+    "description": "Fleur Du Cap Shiraz Bottle 750ml"
+  },
+  {
+    "barcode": "06001108000637",
+    "description": "Fleur Du Cap Chenin Blanc Bottle 750ml"
+  },
+  {
+    "barcode": "06001108075673",
+    "description": "Hunter's Gold Pack 12x440ml Cans"
+  },
+  {
+    "barcode": "06001452278010",
+    "description": "Nederburg Noble Late Harvest Bottle 375ml"
+  },
+  {
+    "barcode": "06001108076922",
+    "description": "Klipdrift Premium & Head Phones (2020) Bottle 750ml"
+  },
+  {
+    "barcode": "06001108002921",
+    "description": "Obikwa Chenin Blanc Bottle 750ml"
+  },
+  {
+    "barcode": "06001452668002",
+    "description": "Ship Bottle 750ml"
+  },
+  {
+    "barcode": "06001452634007",
+    "description": "Sedgwick's Old Brown Bottle 375ml"
+  },
+  {
+    "barcode": "06001495004782",
+    "description": "Poison City Brewing - Durban Poison Cannabis Lager Bottle 340ml"
+  },
+  {
+    "barcode": "06001108099419",
+    "description": "Cruz Vodka Berrylicious & Goblet (2019) Bottle 750ml"
+  },
+  {
+    "barcode": "06001452117005",
+    "description": "Mellow-wood 5yo Bottle 750ml"
+  },
+  {
+    "barcode": "06001108023049",
+    "description": "Lomond Sugarbush Sauvignon Blanc Bottle 750ml"
+  },
+  {
+    "barcode": "06001452507004",
+    "description": "Capenheimer Perle Bottle 750ml"
+  },
+  {
+    "barcode": "06001108102454",
+    "description": "Hunter's Red Apple Bottle 330ml"
+  },
+  {
+    "barcode": "06001497416507",
+    "description": "Allesverloren Tinta Barocca 1996 Bottle 750ml"
+  },
+  {
+    "barcode": "06001108027498",
+    "description": "Drostdy-hof Extra Light Bottle 1.5ltr"
+  },
+  {
+    "barcode": "06001452255004",
+    "description": "Graca Bottle 750ml"
+  },
+  {
+    "barcode": "06001108089694",
+    "description": "Hunter's Dry Pack 12x330ml"
+  },
+  {
+    "barcode": "06001496010591",
+    "description": "Klipdrift Export Bottle 1ltr (round)"
+  },
+  {
+    "barcode": "06001108087201",
+    "description": "Drostdy-hof Adelpracht Bottle 750ml"
+  },
+  {
+    "barcode": "06001452303873",
+    "description": "Nederburg Pinotage Bottle 750ml"
+  },
+  {
+    "barcode": "06001452283861",
+    "description": "Nederburg Edelrood Bottle 750ml"
+  },
+  {
+    "barcode": "06001108094339",
+    "description": "Three Ship's Bourbon Cask Whisky Gift Pack Bottle 750ml"
+  },
+  {
+    "barcode": "06001108085474",
+    "description": "Three Ship's 10yo Single Malt Whisky Bottle 750ml"
+  },
+  {
+    "barcode": "06001108087362",
+    "description": "Richelieu 10yo & Socks (2020) Bottle 750ml"
+  },
+  {
+    "barcode": "06001108098917",
+    "description": "Richelleu & Pourer Gift Pack Bottle 750ml"
+  },
+  {
+    "barcode": "06001108069474",
+    "description": "Klipdrift & Cola Can 440ml"
+  },
+  {
+    "barcode": "06001108101075",
+    "description": "4th Street Rockin' Raspberry Rose Can 440ml"
+  },
+  {
+    "barcode": "06001108078858",
+    "description": "Hunter's Extreme Can 440ml"
+  },
+  {
+    "barcode": "06001452121002",
+    "description": "Romanoff Bottle 200ml"
+  },
+  {
+    "barcode": "06001108093462",
+    "description": "Grunberger Rosenlese Bottle 750ml"
+  },
+  {
+    "barcode": "06001108084859",
+    "description": "Savanna Loco Bottle 330ml"
+  },
+  {
+    "barcode": "06001108035301",
+    "description": "Klipdrift & Cola Can 330ml"
+  },
+  {
+    "barcode": "06001452475105",
+    "description": "Plaisir De Merle Cabernet Sauvignon Bottle 750ml"
+  },
+  {
+    "barcode": "06001108101655",
+    "description": "Cruz Vintage Black & 2 Glasses (2020) Bottle 750ml"
+  },
+  {
+    "barcode": "06001108035950",
+    "description": "Nederburg Ingenuity White Blend Bottle 750ml"
+  },
+  {
+    "barcode": "06001108060495",
+    "description": "Nederburg Pb R181 Merlot Bottle 750ml"
+  },
+  {
+    "barcode": "06001108060570",
+    "description": "Richelieu 10yo Bottle 750ml"
+  },
+  {
+    "barcode": "06001108102065",
+    "description": "Durbanville Hills Demi Sec Bottle 750ml"
+  },
+  {
+    "barcode": "06001108099402",
+    "description": "Cruz Vodka Raspberry & Goblet (2019) Bottle 750ml"
+  },
+  {
+    "barcode": "06001496040062",
+    "description": "Gordon's Gin Bottle 375ml"
+  },
+  {
+    "barcode": "05029704217847",
+    "description": "Scottish Leader Original Whisky Bottle 1ltr"
+  },
+  {
+    "barcode": "06001108093424",
+    "description": "Count Pushkin Botanic Bottle 750ml"
+  },
+  {
+    "barcode": "06001452174008",
+    "description": "Nederburg Cuvee Brut Bottle 750ml"
+  },
+  {
+    "barcode": "06001108093356",
+    "description": "Grunberger Freudenlese Bottle 750ml"
+  },
+  {
+    "barcode": "06001108037404",
+    "description": "Count Pushkin Premium Bottle 375ml"
+  },
+  {
+    "barcode": "06001108096654",
+    "description": "Savanna Lemon 0% Bottle 330ml"
+  },
+  {
+    "barcode": "06001496301903",
+    "description": "Cellar Cask Johannisberger Rose Bottle 750ml"
+  },
+  {
+    "barcode": "06001496303525",
+    "description": "Paarl Perle Bottle 1ltr"
+  },
+  {
+    "barcode": "06001452104609",
+    "description": "Plaisir De Merle Merlot 1998 Bottle 750ml"
+  },
+  {
+    "barcode": "06001496010577",
+    "description": "Klipdrift Export Bottle 750ml"
+  },
+  {
+    "barcode": "06001452348706",
+    "description": "Nederburg Duet Bottle 750ml"
+  },
+  {
+    "barcode": "06001108093394",
+    "description": "Count Pushkin Cinnamon Bottle 750ml"
+  },
+  {
+    "barcode": "16001108031324",
+    "description": "Bain's Cape Mountain Whisky Case 6x750ml"
+  },
+  {
+    "barcode": "06001108050199",
+    "description": "Three Ship's Select Bottle 200ml"
+  },
+  {
+    "barcode": "06001108033598",
+    "description": "Two Oceans Pinot Noir Bottle 750ml"
+  },
+  {
+    "barcode": "06001108101099",
+    "description": "4th Street Wild Cola Can 440ml"
+  },
+  {
+    "barcode": "06001108066251",
+    "description": "Lomond Merlot Rose Bottle 750ml"
+  },
+  {
+    "barcode": "06001496040086",
+    "description": "Gordon's Gin Bottle 750ml"
+  },
+  {
+    "barcode": "06001496566036",
+    "description": "Clubman Mint Punch Bottle 375ml"
+  },
+  {
+    "barcode": "06001108036261",
+    "description": "Harrier Finest Matured Whisky Bottle 200ml"
+  },
+  {
+    "barcode": "06001108048974",
+    "description": "Nederburg Riesling Bottle 750ml"
+  },
+  {
+    "barcode": "06001497115004",
+    "description": "Jc Le Roux La Vallee Bottle 750ml"
+  },
+  {
+    "barcode": "06001496040109",
+    "description": "Gordon's Gin Bottle 1ltr"
+  },
+  {
+    "barcode": "06001452117203",
+    "description": "Mainstay Premium Cane Bottle 200ml"
+  },
+  {
+    "barcode": "06001452589000",
+    "description": "Oom Tas Bottle 1ltr"
+  },
+  {
+    "barcode": "06001495217038",
+    "description": "Grunberger Spritziger Bottle 750ml"
+  },
+  {
+    "barcode": "06001496011086",
+    "description": "Limosin Extra Fine Bottle 750ml"
+  },
+  {
+    "barcode": "06001496010027",
+    "description": "Klipdrift Premium Case 12x750ml"
+  },
+  {
+    "barcode": "06001108097569",
+    "description": "Esprit Watermelon & Strawberry Pack 6x275ml"
+  },
+  {
+    "barcode": "06001452272896",
+    "description": "Nederburg Stein Bottle 750ml"
+  },
+  {
+    "barcode": "06001108049599",
+    "description": "4th Street Natural Sweet White Bottle 750ml"
+  },
+  {
+    "barcode": "06001495001040",
+    "description": "Richelieu Bottle 200ml"
+  },
+  {
+    "barcode": "06001452361002",
+    "description": "Zorba Bottle 375ml"
+  },
+  {
+    "barcode": "06001452260909",
+    "description": "Nederburg Ros? Bottle 750ml"
+  },
+  {
+    "barcode": "06001108060198",
+    "description": "Flat Roof Manor Light Sauvignon Blanc Bottle 750ml"
+  },
+  {
+    "barcode": "06001108085450",
+    "description": "Viceroy Makoya (oval) Bottle 750ml (oval)"
+  },
+  {
+    "barcode": "06001452224000",
+    "description": "Zonnebloem Blanc De Blanc Bottle 750ml"
+  },
+  {
+    "barcode": "06001452273893",
+    "description": "Nederburg Stein Bottle 250ml"
+  },
+  {
+    "barcode": "06001108089915",
+    "description": "Pongracz Noble Nectar Demi Sec Bottle 750ml"
+  },
+  {
+    "barcode": "06001108091420",
+    "description": "Cruz Vodka Raspberry & 2 Tonic Waters Bottle 750ml"
+  },
+  {
+    "barcode": "06001496351502",
+    "description": "Eine Kleine Nachtmusik Liqueur Bottle 750ml"
+  },
+  {
+    "barcode": "06001496317034",
+    "description": "Fleur Du Cap Unfiltered Chardonnay Bottle 750ml"
+  },
+  {
+    "barcode": "06001108097538",
+    "description": "Esprit Watermelon & Strawberry Can 440ml"
+  },
+  {
+    "barcode": "06001108064264",
+    "description": "Hunter's Dry Can 440ml"
+  },
+  {
+    "barcode": "06001452043007",
+    "description": "Olof Bergh Bottle 750ml"
+  },
+  {
+    "barcode": "06001496312527",
+    "description": "Fleur Du Cap Natural Light Bottle 750ml"
+  },
+  {
+    "barcode": "06001495505036",
+    "description": "Multana Red Bottle 750ml"
+  },
+  {
+    "barcode": "06001108078803",
+    "description": "Fleur Du Cap Natural Light Rose Bottle 750ml"
+  },
+  {
+    "barcode": "06001452260602",
+    "description": "Zonnebloem Pinotage Bottle 750ml"
+  },
+  {
+    "barcode": "06001496010539",
+    "description": "Klipdrift Export Bottle 200ml"
+  },
+  {
+    "barcode": "06001108062451",
+    "description": "Bain's Cape Mountain Whisky & 2 Glasses Bottle 750ml"
+  },
+  {
+    "barcode": "06001495504503",
+    "description": "Vincoco Bottle 200ml"
+  },
+  {
+    "barcode": "06001108036056",
+    "description": "Lomond Cat's Tail Syrah Bottle 750ml"
+  },
+  {
+    "barcode": "06001108049636",
+    "description": "4th Street Natural Sweet Rose Bottle 1.5ltr"
+  },
+  {
+    "barcode": "06001108035288",
+    "description": "Hunter's Gold Can 330ml"
+  },
+  {
+    "barcode": "06001108094056",
+    "description": "Bernini Classic Bottle 440ml"
+  },
+  {
+    "barcode": "06001496011819",
+    "description": "Viceroy 5yo Bottle 750ml (flat)"
+  },
+  {
+    "barcode": "06001452280853",
+    "description": "Nederburg Baronne Bottle 250ml"
+  },
+  {
+    "barcode": "06001108029140",
+    "description": "Lomond Estate Merlot 2005 Bottle 750ml"
+  },
+  {
+    "barcode": "06001108092854",
+    "description": "Delgado Supremo Bottle 750ml"
+  },
+  {
+    "barcode": "06001108070791",
+    "description": "Earthbound Fairtrade Organic Chenin Blanc Bottle 750ml"
+  },
+  {
+    "barcode": "06001108097453",
+    "description": "Esprit Blueberry & Basil Bottle 275ml"
+  },
+  {
+    "barcode": "06001495000470",
+    "description": "Durbanville Hills Shiraz Bottle 750ml"
+  },
+  {
+    "barcode": "06001495502189",
+    "description": "Delgado Supremo Bottle 200ml"
+  },
+  {
+    "barcode": "06001108035417",
+    "description": "Scottish Leader 12yo & 2 Glasses (2020) Bottle 750ml"
+  },
+  {
+    "barcode": "06001497600500",
+    "description": "Allesverloren Fine Old Vintage Bottle 750ml"
+  },
+  {
+    "barcode": "06001496568214",
+    "description": "Alaska Peppermint Bottle 750ml"
+  },
+  {
+    "barcode": "06001108090591",
+    "description": "Van Ryn's 12yo Bottle 750ml"
+  },
+  {
+    "barcode": "06001108065087",
+    "description": "Nederburg 5600 Cabernet Sauvignon Bottle 750ml"
+  },
+  {
+    "barcode": "06001496310547",
+    "description": "Fleur Du Cap Pinotage Bottle 750ml"
+  },
+  {
+    "barcode": "05029704217892",
+    "description": "Scottish Leader Signature Whisky Bottle 750ml"
+  },
+  {
+    "barcode": "06001108006790",
+    "description": "Jacobsdal Cabernet Sauvignon Bottle 750ml"
+  },
+  {
+    "barcode": "06001497112058",
+    "description": "Jc Le Roux Le Domaine Bottle 1.5ltr"
+  },
+  {
+    "barcode": "06001108021076",
+    "description": "Drostdy-hof Natural Sweet Red Bottle 750ml"
+  },
+  {
+    "barcode": "06001108028860",
+    "description": "Lomond Estate Syrah Bottle 750ml"
+  },
+  {
+    "barcode": "06001108101570",
+    "description": "Pongracz Rose 750ml Kdf (2020) Bottle 750ml"
+  },
+  {
+    "barcode": "06001495062669",
+    "description": "Amarula Cream Bottle 1ltr"
+  },
+  {
+    "barcode": "06001108050861",
+    "description": "Jc Le Roux La Vallee Rose Bottle 750ml"
+  },
+  {
+    "barcode": "06001497600579",
+    "description": "Two Oceans Cabernet/merlot Bottle 750ml"
+  },
+  {
+    "barcode": "06001108101617",
+    "description": "Hunter's Chill 0% Pack 6x330ml"
+  },
+  {
+    "barcode": "06001108061867",
+    "description": "Esprit Apple Cherry Bottle 275ml"
+  },
+  {
+    "barcode": "06001108063748",
+    "description": "Three Sips 10yr With 2 Glasses & Jsd Voucher Bottle 750ml"
+  },
+  {
+    "barcode": "06001497114533",
+    "description": "Pongracz Bottle 1.5ltr"
+  },
+  {
+    "barcode": "06001496560058",
+    "description": "Castle Brand Bottle 750ml"
+  },
+  {
+    "barcode": "06001108097774",
+    "description": "Extreme Can 250ml"
+  },
+  {
+    "barcode": "06001497114151",
+    "description": "Jc Le Roux La Chanson Bottle 187ml"
+  },
+  {
+    "barcode": "06001108055200",
+    "description": "Hunter's Export Bottle 330ml"
+  },
+  {
+    "barcode": "06001108050144",
+    "description": "Olof Bergh Bottle 1ltr"
+  },
+  {
+    "barcode": "06001108061195",
+    "description": "Bain's Cape Mountain Whisky 750ml & Wooden Serving Tray (2020) Bottle 750ml"
+  },
+  {
+    "barcode": "06001108091871",
+    "description": "Cruz Vodka Watermelon Bottle 750ml"
+  },
+  {
+    "barcode": "06001495200504",
+    "description": "Drostdy-hof Extra Light Bottle 750ml"
+  },
+  {
+    "barcode": "06001452657006",
+    "description": "Zorba Bottle 200ml"
+  },
+  {
+    "barcode": "06001108039576",
+    "description": "Scottish Leader Original With 2 Glasses Bottle 750ml"
+  },
+  {
+    "barcode": "06001495502226",
+    "description": "Delgado Supremo Bottle 375ml"
+  },
+  {
+    "barcode": "06001108062550",
+    "description": "Plaisir De Merle Petit Plaisir Bottle 750ml"
+  },
+  {
+    "barcode": "06001452641005",
+    "description": "Monis Full Cream Bottle 750ml"
+  },
+  {
+    "barcode": "06001108089700",
+    "description": "Hunter's Gold Pack 12x330ml"
+  },
+  {
+    "barcode": "06001496040048",
+    "description": "Gordon's Gin Bottle 200ml"
+  },
+  {
+    "barcode": "06001452495004",
+    "description": "Tassenberg Bottle 750ml"
+  },
+  {
+    "barcode": "06001496301705",
+    "description": "Cellar Cask Johannisberger Bottle 750ml"
+  },
+  {
+    "barcode": "06001495000357",
+    "description": "Durbanville Hills Premium Chardonnay Bottle 750ml"
+  },
+  {
+    "barcode": "06001108077318",
+    "description": "Nederburg Chardonnay. Sauvingon Blanc & Riesling & Wooden Recipe Holder Bottle 750ml"
+  },
+  {
+    "barcode": "06001108050458",
+    "description": "Three Ship's Select Bottle 375ml"
+  },
+  {
+    "barcode": "06001108001436",
+    "description": "Nederburg Merlot Bottle 750ml"
+  },
+  {
+    "barcode": "06001452376006",
+    "description": "Autumn Harvest Crackling Bottle 750ml"
+  },
+  {
+    "barcode": "06001108092496",
+    "description": "Cruz Vintage Black Vodka Bottle 750ml"
+  },
+  {
+    "barcode": "06001108055835",
+    "description": "Bernini Blush Bottle 275ml"
+  },
+  {
+    "barcode": "06001495001088",
+    "description": "Richelieu Bottle 750ml"
+  },
+  {
+    "barcode": "06001497114502",
+    "description": "Pongracz Bottle 750ml"
+  },
+  {
+    "barcode": "06001452493000",
+    "description": "Tassenberg Bottle 2ltr"
+  },
+  {
+    "barcode": "06001497112072",
+    "description": "Jc Le Roux Le Domaine Bottle 187ml"
+  },
+  {
+    "barcode": "06001495062539",
+    "description": "Amarula Cream Bottle 50ml"
+  },
+  {
+    "barcode": "06001108050465",
+    "description": "Savanna Light Bottle 330ml"
+  },
+  {
+    "barcode": "06001496011741",
+    "description": "Viceroy 5yo Bottle 200ml"
+  },
+  {
+    "barcode": "06001108049612",
+    "description": "4th Street Natural Sweet Red Bottle 1.5ltr"
+  },
+  {
+    "barcode": "06001108004079",
+    "description": "Obikwa Shiraz Bottle 750ml"
+  },
+  {
+    "barcode": "06001495000111",
+    "description": "Durbanville Hills Rhinofields Pinotage Bottle 750ml"
+  },
+  {
+    "barcode": "00700083599001",
+    "description": "Cruz Vodka Cranberry & 2xlemonade Combo Pack"
+  },
+  {
+    "barcode": "06001108097859",
+    "description": "Durbanville Hills Rose Sparkling Bottle 750ml"
+  },
+  {
+    "barcode": "06001108098757",
+    "description": "Gordon's Gin & Glass Bottle 750ml"
+  },
+  {
+    "barcode": "06001108025166",
+    "description": "Obikwa Pinotage Rose Bottle 750ml"
+  },
+  {
+    "barcode": "06001495505524",
+    "description": "Multana White Bottle 750ml"
+  },
+  {
+    "barcode": "06001108065056",
+    "description": "Nederburg 5600 Chenin Blanc Bottle 750ml"
+  },
+  {
+    "barcode": "06001452054010",
+    "description": "Mellow-wood 5yo Bottle 200ml"
+  },
+  {
+    "barcode": "06001108064899",
+    "description": "Jc Le Roux Le Domaine 0% Bottle 750ml"
+  },
+  {
+    "barcode": "06001495001095",
+    "description": "Richelieu Case 12x750ml"
+  },
+  {
+    "barcode": "06001108091413",
+    "description": "Cruz Vodka Pineapple & 2 Tonic Waters Combo Pack"
+  },
+  {
+    "barcode": "06001108096661",
+    "description": "Savanna Lemon 0% Pack 6x330ml"
+  },
+  {
+    "barcode": "06001108055217",
+    "description": "Hunter's Export Pack 6x330ml"
+  },
+  {
+    "barcode": "06001108093400",
+    "description": "Count Pushkin Apple Bottle 750ml"
+  },
+  {
+    "barcode": "06001108077998",
+    "description": "Savanna Dry Angry Lemon Pack 6x330ml"
+  },
+  {
+    "barcode": "06001496568207",
+    "description": "Alaska Peppermint Bottle 200ml"
+  },
+  {
+    "barcode": "06001108098566",
+    "description": "Hunter's Hard Lemon Pack 6x440ml Cans"
+  },
+  {
+    "barcode": "06001108055798",
+    "description": "Bernini Classic Bottle 275ml"
+  },
+  {
+    "barcode": "06001108055842",
+    "description": "Bernini Blush Pack 6x275ml"
+  },
+  {
+    "barcode": "06001108061850",
+    "description": "Esprit Apple Cherry Pack 6x275ml"
+  },
+  {
+    "barcode": "06001108084866",
+    "description": "Savanna Loco Pack 6x330ml"
+  },
+  {
+    "barcode": "06001108103390",
+    "description": "Vawter Cucumber Pack 6x440ml Cans"
+  },
+  {
+    "barcode": "06001108097507",
+    "description": "Esprit Mango & Chilli Pack 6x275ml"
+  },
+  {
+    "barcode": "06001452475204",
+    "description": "Plaisir De Merle Sauvignon Blanc Bottle 750ml"
+  },
+  {
+    "barcode": "06001108102706",
+    "description": "Bernini Amber Pack 6x275ml"
+  },
+  {
+    "barcode": "06001108102683",
+    "description": "Bernini Amber Pack 6x440ml"
+  },
+  {
+    "barcode": "06001452635004",
+    "description": "Sedgwick's Old Brown Bottle 200ml"
+  },
+  {
+    "barcode": "46001452043005",
+    "description": "Olof Bergh Case 12x750ml"
+  },
+  {
+    "barcode": "06001108055804",
+    "description": "Bernini Classic Pack 6x275ml"
+  },
+  {
+    "barcode": "06001108055262",
+    "description": "Hunter's Hard Lemon Pack 6x330ml"
+  },
+  {
+    "barcode": "06001108097460",
+    "description": "Esprit Blueberry & Basil Pack 6x275ml"
+  },
+  {
+    "barcode": "06001108102461",
+    "description": "Hunter's Red Apple Pack 6x330ml"
+  },
+  {
+    "barcode": "06001496041014",
+    "description": "Pimm's No 1 Cup Bottle 750ml"
+  },
+  {
+    "barcode": "06001108055248",
+    "description": "Hunter's Gold Pack 6x330ml"
+  },
+  {
+    "barcode": "06001108007155",
+    "description": "Three Ship's 10yo Single Malt Whisky Bottle 750ml"
+  },
+  {
+    "barcode": "06001108058577",
+    "description": "Place In The Sun Fairtrade Merlot Bottle 750ml"
+  },
+  {
+    "barcode": "06001495001187",
+    "description": "Richelieu Bottle 1ltr (round)"
+  },
+  {
+    "barcode": "06001452630009",
+    "description": "Sedgwick's Old Brown Bottle 2ltr"
+  },
+  {
+    "barcode": "06001496317058",
+    "description": "Fleur Du Cap Unfiltered Merlot Bottle 750ml"
+  },
+  {
+    "barcode": "06001108093776",
+    "description": "Amarula Vanilla Spice Bottle 750ml"
+  },
+  {
+    "barcode": "06001496568047",
+    "description": "Mokador Bottle 375ml"
+  },
+  {
+    "barcode": "06001108072368",
+    "description": "Viceroy Smooth Gold Bottle 750ml"
+  },
+  {
+    "barcode": "06001497600616",
+    "description": "Two Oceans Sauvignon Blanc Bottle 750ml"
+  },
+  {
+    "barcode": "06001108059192",
+    "description": "4th Street Natural Sweet Rose Bib 3ltr"
+  },
+  {
+    "barcode": "06001108095879",
+    "description": "Cellar Cask Smooth Dry Red Bib 1ltr"
+  },
+  {
+    "barcode": "06001495202560",
+    "description": "Drostdy-hof Stein Bib 5ltr"
+  },
+  {
+    "barcode": "06001495200528",
+    "description": "Drostdy-hof Extra Light Bib 2ltr"
+  },
+  {
+    "barcode": "06001108059178",
+    "description": "4th Street Natural Sweet Red Bib 5ltr"
+  },
+  {
+    "barcode": "06001496301934",
+    "description": "Cellar Cask Johannisberger Rose Bib 2ltr"
+  },
+  {
+    "barcode": "06001496301965",
+    "description": "Cellar Cask Johannisberger Rose Bib 5ltr"
+  },
+  {
+    "barcode": "06001495201600",
+    "description": "Drostdy-hof Claret Select Bib 5ltr"
+  },
+  {
+    "barcode": "06001495203581",
+    "description": "Drostdy-hof Late Harvest Bib 2ltr"
+  },
+  {
+    "barcode": "06001108002433",
+    "description": "Two Oceans Sauvignon Blanc Bib 3ltr"
+  },
+  {
+    "barcode": "06001108065193",
+    "description": "Mainstay Cranberry Cosmo Tetra 3ltr"
+  },
+  {
+    "barcode": "06001108055453",
+    "description": "Drostdy-hof Natural Sweet Rose Bib 5ltr"
+  },
+  {
+    "barcode": "06001108088895",
+    "description": "Drostdy-hof Natural Sweet Rose Bib 3ltr"
+  },
+  {
+    "barcode": "06001108088864",
+    "description": "Drostdy-hof Extra Light Bib 3ltr"
+  },
+  {
+    "barcode": "06001496301842",
+    "description": "Cellar Cask Johannisberger Red Bib 5ltr"
+  },
+  {
+    "barcode": "06001108021038",
+    "description": "Drostdy-hof Natural Sweet Red Bib 2ltr"
+  },
+  {
+    "barcode": "06001496301729",
+    "description": "Cellar Cask Johannisberger Bib 2ltr"
+  },
+  {
+    "barcode": "06001496301743",
+    "description": "Cellar Cask Johannisberger Bib 5ltr"
+  },
+  {
+    "barcode": "06001496301828",
+    "description": "Cellar Cask Johannisberger Red Bib 2ltr"
+  },
+  {
+    "barcode": "06001452058001",
+    "description": "Overmeer Grand Cru Bib 5ltr"
+  },
+  {
+    "barcode": "06001495203604",
+    "description": "Drostdy-hof Late Harvest Bib 5ltr"
+  },
+  {
+    "barcode": "06001108068354",
+    "description": "Overmeer Sweet Rose Bib 3ltr"
+  },
+  {
+    "barcode": "06001108101259",
+    "description": "Drostdy-hof Adelpracht Bib 5ltr"
+  },
+  {
+    "barcode": "06001108035615",
+    "description": "Overmeer Grand Cru Bib 3ltr"
+  },
+  {
+    "barcode": "06001108088857",
+    "description": "Drostdy-hof Claret Select Bib 3ltr"
+  },
+  {
+    "barcode": "06001108098467",
+    "description": "Cellar Cask Crisp White Bib 1ltr"
+  },
+  {
+    "barcode": "06001108065209",
+    "description": "Mainstay Mango Daiquiri Tetra 3ltr"
+  },
+  {
+    "barcode": "06001108059208",
+    "description": "4th Street Natural Sweet Rose Bib 5ltr"
+  },
+  {
+    "barcode": "06001495200542",
+    "description": "Drostdy-hof Extra Light Bib 5ltr"
+  },
+  {
+    "barcode": "06001108088888",
+    "description": "Drostdy-hof Natural Sweet Red Bib 3ltr"
+  },
+  {
+    "barcode": "06001452061001",
+    "description": "Overmeer Stein Bib 5ltr"
+  },
+  {
+    "barcode": "06001452496001",
+    "description": "Tassenberg Bib 5ltr"
+  },
+  {
+    "barcode": "06001108059222",
+    "description": "4th Street Natural Sweet White Bib 5ltr"
+  },
+  {
+    "barcode": "06001108089946",
+    "description": "Drostdy-hof Adelpracht Bib 3ltr"
+  },
+  {
+    "barcode": "06001108088901",
+    "description": "Drostdy-hof Natural Sweet White Bib 3ltr"
+  },
+  {
+    "barcode": "06001108059154",
+    "description": "4th Street Natural Sweet Red Bib 3ltr"
+  },
+  {
+    "barcode": "06001108058447",
+    "description": "Pongracz Rose Bottle 375ml"
+  },
+  {
+    "barcode": "06001452059008",
+    "description": "Overmeer Late Harvest Bib 5ltr"
+  },
+  {
+    "barcode": "06001108056382",
+    "description": "Mainstay Daiquiri Tetra 3ltr"
+  },
+  {
+    "barcode": "06001108086266",
+    "description": "Drostdy-hof Extra Light Rose Bib 3ltr"
+  },
+  {
+    "barcode": "06001108007841",
+    "description": "Two Oceans Cabernet Sauvignon/merlot Bib 3ltr"
+  },
+  {
+    "barcode": "06001108102430",
+    "description": "Bernini Blush Can 440ml"
+  },
+  {
+    "barcode": "06001108067456",
+    "description": "Mainstay Exotic Fusion Bottle 750ml"
+  },
+  {
+    "barcode": "06001108071354",
+    "description": "Jc Le Roux La Fleurette 0% Bottle 750ml"
+  },
+  {
+    "barcode": "06001108088659",
+    "description": "Durbanville Hills Sauvignon Blanc Sparkling Bottle 750ml"
+  },
+  {
+    "barcode": "06001452140003",
+    "description": "Three Ship's Select Bottle 1ltr"
+  },
+  {
+    "barcode": "06001108101891",
+    "description": "Amarula Raspberry & Chocolate Bottle 750ml"
+  },
+  {
+    "barcode": "06001108001474",
+    "description": "Hunter's Gold Bottle 660ml Rb"
+  },
+  {
+    "barcode": "06001452375009",
+    "description": "Autumn Harvest Crackling Bottle 1.5ltr"
+  },
+  {
+    "barcode": "06001452258005",
+    "description": "Nederburg Sauvignon Blanc Bottle 750ml"
+  },
+  {
+    "barcode": "06001108077196",
+    "description": "Jc Le Roux La Vallee Xmas (2014) Bottle 750ml"
+  },
+  {
+    "barcode": "06001108049605",
+    "description": "4th Street Natural Sweet Rose Bottle 750ml"
+  },
+  {
+    "barcode": "06001108097217",
+    "description": "Extreme Bottle 275ml"
+  },
+  {
+    "barcode": "06001108081162",
+    "description": "Scottish Leader Signature Whisky & Money Clip Bottle 750ml"
+  },
+  {
+    "barcode": "06001108075765",
+    "description": "Jc Le Roux La Vallee Rose (2014) Bottle 750ml"
+  },
+  {
+    "barcode": "06001108007902",
+    "description": "Klipdrift Gold Bottle 750ml"
+  },
+  {
+    "barcode": "06001108059215",
+    "description": "4th Street Natural Sweet White Bib 3ltr"
+  },
+  {
+    "barcode": "06001108092700",
+    "description": "Cruz Vodka Raspberry Bottle 750ml"
+  },
+  {
+    "barcode": "06001108094551",
+    "description": "Durbanville Hills Rose Sparkling Kdf (2020) Bottle 750ml"
+  },
+  {
+    "barcode": "06001495001019",
+    "description": "Richelieu Bottle 50ml"
+  },
+  {
+    "barcode": "06001108015648",
+    "description": "Three Ship's Bourbon Cask Finisch Whisky Bottle 750ml"
+  },
+  {
+    "barcode": "06001452120401",
+    "description": "Chateau Libertas Bottle 750ml"
+  },
+  {
+    "barcode": "06001495000326",
+    "description": "Durbanville Hills Cabernet Sauvignon 2000 Bottle 750ml"
+  },
+  {
+    "barcode": "06001495200160",
+    "description": "Drostdy-hof Extra Light Bottle 375ml"
+  },
+  {
+    "barcode": "06001108044754",
+    "description": "Bain's Cape Mountain Whisky Bottle 750ml"
+  },
+  {
+    "barcode": "06001108090485",
+    "description": "Savanna Blackbeard Bottle 330ml"
+  },
+  {
+    "barcode": "06001108028709",
+    "description": "Two Oceans Shiraz Rose Bottle 750ml"
+  },
+  {
+    "barcode": "06001108102256",
+    "description": "Savanna Angry Lemon Bottle 500ml"
+  },
+  {
+    "barcode": "06001497110016",
+    "description": "Jc Le Roux Sauvignon Blanc Bottle 750ml"
+  },
+  {
+    "barcode": "06009801472805",
+    "description": "Windhoek Draught Case 2x(12x440ml)"
+  },
+  {
+    "barcode": "06009900345321",
+    "description": "Stellenbrau Craven Craft Lager Case 24x330ml"
+  },
+  {
+    "barcode": "06009705710331",
+    "description": "Strongbow Golden Apple Case 24x330ml"
+  },
+  {
+    "barcode": "06009705710768",
+    "description": "Amstel Radler Case 24x440ml Cans"
+  },
+  {
+    "barcode": "06001760004776",
+    "description": "Windhoek Draught Can 440ml"
+  },
+  {
+    "barcode": "06009705711147",
+    "description": "Heineken Fat Can 330ml"
+  },
+  {
+    "barcode": "06009705710423",
+    "description": "Strongbow Dry Can 440ml"
+  },
+  {
+    "barcode": "06001760005469",
+    "description": "Amstel Lager Case 24x440ml Cans"
+  },
+  {
+    "barcode": "06009705710126",
+    "description": "Heineken Pack 12x330ml"
+  },
+  {
+    "barcode": "06001760006022",
+    "description": "Windhoek Light Case 24x440ml Cans"
+  },
+  {
+    "barcode": "06009705711321",
+    "description": "Fox Dry Apple Bottle 330ml"
+  },
+  {
+    "barcode": "06009705711154",
+    "description": "Heineken Fat Pack 6x330ml Cans"
+  },
+  {
+    "barcode": "06009705710485",
+    "description": "Strongbow Red Berries Pack 6x330ml"
+  },
+  {
+    "barcode": "06001760004790",
+    "description": "Windhoek Draught Case 24x440ml Cans"
+  },
+  {
+    "barcode": "06001760006497",
+    "description": "Tafel Lager Lite Bottle 330ml"
+  },
+  {
+    "barcode": "06009801472058",
+    "description": "Amstel Lager Case 24x330ml"
+  },
+  {
+    "barcode": "06009705711451",
+    "description": "Strongbow Dry Case 24x330ml"
+  },
+  {
+    "barcode": "06009705710744",
+    "description": "Amstel Radler Can 440ml"
+  },
+  {
+    "barcode": "06009900345369",
+    "description": "Stellenbrau Jonkers Weiss Bottle 330ml"
+  },
+  {
+    "barcode": "06009801472898",
+    "description": "Windhoek Lager Can 440ml"
+  },
+  {
+    "barcode": "06009705710508",
+    "description": "Strongbow Red Berries Can 440ml"
+  },
+  {
+    "barcode": "06001760005551",
+    "description": "Windhoek Light Bottle 330ml"
+  },
+  {
+    "barcode": "06009705711352",
+    "description": "Fox Dry Apple Can 440ml"
+  },
+  {
+    "barcode": "06009801472355",
+    "description": "Windhoek Lager Pack 12x330ml"
+  },
+  {
+    "barcode": "06009801472348",
+    "description": "Amstel Lager Pack 12x330ml"
+  },
+  {
+    "barcode": "06001760005452",
+    "description": "Amstel Lager Can 330ml"
+  },
+  {
+    "barcode": "06009705711437",
+    "description": "Strongbow Dry Bottle 330ml"
+  },
+  {
+    "barcode": "06001760005414",
+    "description": "Windhoek Draught Case 24x440ml"
+  },
+  {
+    "barcode": "06009705711499",
+    "description": "Heineken 0% Bottle 330ml"
+  },
+  {
+    "barcode": "06009705711338",
+    "description": "Fox Dry Apple Pack 6x330ml"
+  },
+  {
+    "barcode": "06009705710553",
+    "description": "Amstel Lager Bottle 660ml Rb"
+  },
+  {
+    "barcode": "06001760005391",
+    "description": "Windhoek Draught Bottle 440ml"
+  },
+  {
+    "barcode": "06009705710492",
+    "description": "Strongbow Red Berries Case 24x330ml"
+  },
+  {
+    "barcode": "06009801472591",
+    "description": "Amstel Lager Case 12x440ml Cans"
+  },
+  {
+    "barcode": "06009801472287",
+    "description": "Heineken Can 440ml"
+  },
+  {
+    "barcode": "06009705710478",
+    "description": "Strongbow Red Berries Bottle 330ml"
+  },
+  {
+    "barcode": "06009801472607",
+    "description": "Heineken Pack 12x440ml Cans"
+  },
+  {
+    "barcode": "06009801472102",
+    "description": "Heineken Bottle 330ml"
+  },
+  {
+    "barcode": "06009705710140",
+    "description": "Heineken Sleek Can 330ml"
+  },
+  {
+    "barcode": "06001760004714",
+    "description": "Windhoek Lager Can 330ml"
+  },
+  {
+    "barcode": "06009801472034",
+    "description": "Amstel Lager Bottle 330ml"
+  },
+  {
+    "barcode": "06009801472126",
+    "description": "Heineken Case 24x330ml"
+  },
+  {
+    "barcode": "08712000039233",
+    "description": "Sol Original Mexican Beer Bottle 330ml"
+  },
+  {
+    "barcode": "06009900345338",
+    "description": "Stellenbrau Craven Craft Lager Bottle 440ml"
+  },
+  {
+    "barcode": "06001760004783",
+    "description": "Windhoek Draught Pack 6x440ml Cans"
+  },
+  {
+    "barcode": "06009801472300",
+    "description": "Heineken Case 24x440ml Cans"
+  },
+  {
+    "barcode": "06009801472119",
+    "description": "Heineken Pack 6x330ml"
+  },
+  {
+    "barcode": "06009705710713",
+    "description": "Amstel Radler Bottle 330ml"
+  },
+  {
+    "barcode": "06001760005520",
+    "description": "Tafel Lager Bottle 330ml"
+  },
+  {
+    "barcode": "06009801472690",
+    "description": "Amstel Lite Bottle 330ml"
+  },
+  {
+    "barcode": "06001760005940",
+    "description": "Tafel Lager Can 440ml"
+  },
+  {
+    "barcode": "06009801472652",
+    "description": "Heineken Case 2x(12x440ml) Cans"
+  },
+  {
+    "barcode": "06009705711314",
+    "description": "Windhoek Draught Case 24x440ml Cans"
+  },
+  {
+    "barcode": "06009801472089",
+    "description": "Heineken Bottle 650ml"
+  },
+  {
+    "barcode": "06009801472362",
+    "description": "Windhoek Draught Pack 12x440ml"
+  },
+  {
+    "barcode": "06009900345307",
+    "description": "Stellenbrau Craven Craft Lager Bottle 330ml"
+  },
+  {
+    "barcode": "06001760006008",
+    "description": "Windhoek Light Can 440ml"
+  },
+  {
+    "barcode": "06009705710362",
+    "description": "Strongbow Golden Apple Case 24x440ml Cans"
+  },
+  {
+    "barcode": "06009801472041",
+    "description": "Amstel Lager Pack 6x330ml"
+  },
+  {
+    "barcode": "06001760006015",
+    "description": "Windhoek Light Pack 6x440ml Cans"
+  },
+  {
+    "barcode": "06001760005490",
+    "description": "Windhoek Lager Bottle 330ml"
+  },
+  {
+    "barcode": "06009705710317",
+    "description": "Strongbow Golden Apple Bottle 330ml"
+  },
+  {
+    "barcode": "06001760005438",
+    "description": "Amstel Lager Pack 6x440ml Cans"
+  },
+  {
+    "barcode": "06009705711505",
+    "description": "Heineken 0% Pack 6x330ml"
+  },
+  {
+    "barcode": "06001760005537",
+    "description": "Tafel Lager Pack 6x330ml"
+  },
+  {
+    "barcode": "06009705710515",
+    "description": "Strongbow Red Berries Pack 6x440ml Cans"
+  },
+  {
+    "barcode": "06009705710720",
+    "description": "Amstel Radler Pack 6x330ml"
+  },
+  {
+    "barcode": "06009705710355",
+    "description": "Strongbow Golden Apple Pack 6x440ml Cans"
+  },
+  {
+    "barcode": "06009705710324",
+    "description": "Strongbow Golden Apple Pack 6x330ml"
+  },
+  {
+    "barcode": "06009705710751",
+    "description": "Amstel Radler Pack 6x440ml Cans"
+  },
+  {
+    "barcode": "06001760005544",
+    "description": "Tafel Lager Case 24x330ml"
+  },
+  {
+    "barcode": "06009801472294",
+    "description": "Heineken Pack 6x440ml Cans"
+  },
+  {
+    "barcode": "06009900345383",
+    "description": "Stellenbrau Jonkers Weiss Case 24x330ml"
+  },
+  {
+    "barcode": "06009705710348",
+    "description": "Strongbow Golden Apple Can 440ml"
+  },
+  {
+    "barcode": "06009705711017",
+    "description": "Tafel Lager Pack 6x500ml Cans"
+  },
+  {
+    "barcode": "06001760005407",
+    "description": "Windhoek Draught Pack 6x440ml"
+  },
+  {
+    "barcode": "06009801472614",
+    "description": "Windhoek Draught Pack 12x440ml Cans"
+  },
+  {
+    "barcode": "06009705711444",
+    "description": "Strongbow Dry Pack 6x330ml"
+  },
+  {
+    "barcode": "06001760005445",
+    "description": "Amstel Lager Can 440ml"
+  },
+  {
+    "barcode": "06009705711468",
+    "description": "Strongbow Dry Can 440ml"
+  },
+  {
+    "barcode": "06009705710393",
+    "description": "Strongbow Dry Bottle 330ml"
+  },
+  {
+    "barcode": "06001398922374",
+    "description": "Smirnoff Spin Case 24x300ml"
+  },
+  {
+    "barcode": "05010103800303",
+    "description": "J&b Rare Whisky Bottle 750ml"
+  },
+  {
+    "barcode": "06001398100970",
+    "description": "Bertrams Vo Brandy Bottle 750ml"
+  },
+  {
+    "barcode": "06001398115196",
+    "description": "Bertrams Vo Brandy Bottle 200ml"
+  },
+  {
+    "barcode": "06001398127540",
+    "description": "Smirnoff & Cranberry Premix Can 250ml"
+  },
+  {
+    "barcode": "05010103918275",
+    "description": "J&b Jet 12yo Bottle 750ml"
+  },
+  {
+    "barcode": "05000291023608",
+    "description": "Tanqueray & Glass Bottle 750ml"
+  },
+  {
+    "barcode": "06001398128226",
+    "description": "Smirnoff 1818 Berry Bottle 750ml"
+  },
+  {
+    "barcode": "05000281002880",
+    "description": "Dalwhinnie 15yo Single Malt Bottle 750ml"
+  },
+  {
+    "barcode": "06001398120855",
+    "description": "Archers Schnapps Lime Bottle 750ml"
+  },
+  {
+    "barcode": "06001398115172",
+    "description": "Gilbey's Gin (econ) Bottle 200ml"
+  },
+  {
+    "barcode": "06001398122095",
+    "description": "Captain Morgan Spiced Gold Bottle 750ml"
+  },
+  {
+    "barcode": "05000281023212",
+    "description": "Singleton Of Dufftown Bottle 750ml"
+  },
+  {
+    "barcode": "05000387002210",
+    "description": "Bell's Extra Special Bottle 1ltr"
+  },
+  {
+    "barcode": "05010103941037",
+    "description": "Ciroc Mango Bottle 750ml"
+  },
+  {
+    "barcode": "05010103939614",
+    "description": "Ciroc Apple Bottle 750ml"
+  },
+  {
+    "barcode": "05000291021925",
+    "description": "Tanqueray 10 Bottle 750ml"
+  },
+  {
+    "barcode": "06001398101021",
+    "description": "Gilbey's Gin Bottle 750ml"
+  },
+  {
+    "barcode": "05000291024889",
+    "description": "Tanqueray 10 & Key Gift Bottle 750ml"
+  },
+  {
+    "barcode": "05000281016320",
+    "description": "Caol Ila 12yo Single Malt Whisky Bottle 750ml"
+  },
+  {
+    "barcode": "05000267117577",
+    "description": "Johnnie Walker Gold Reserve Bottle 750ml"
+  },
+  {
+    "barcode": "06001398626999",
+    "description": "Smirnoff Ice Double Black & Guarana Pack 6x250ml Cans"
+  },
+  {
+    "barcode": "06001398130281",
+    "description": "Smirnoff Storm Pine Twist Bottle 660ml Rb"
+  },
+  {
+    "barcode": "06001398129728",
+    "description": "Smirnoff Storm Bottle 660ml Rb"
+  },
+  {
+    "barcode": "05000281060477",
+    "description": "Singleton 12yo Malt Whisky Gift Bottle 750ml"
+  },
+  {
+    "barcode": "05000281054094",
+    "description": "Haig Club Clubman Scotch Whisky Pocket Bottle 200ml"
+  },
+  {
+    "barcode": "06001398129735",
+    "description": "Smirnoff Spin Bottle 660ml Rb"
+  },
+  {
+    "barcode": "06001398128233",
+    "description": "Smirnoff 1818 Cherry-almond Bottle 750ml"
+  },
+  {
+    "barcode": "06001398128400",
+    "description": "Smirnoff Storm Pine Twist Can 440ml"
+  },
+  {
+    "barcode": "06001398122026",
+    "description": "Captain Morgan Black Label Bottle 750ml"
+  },
+  {
+    "barcode": "06009708010513",
+    "description": "Bertrams Vo 750ml & 1 Tall Glass Bottle 750ml"
+  },
+  {
+    "barcode": "05000267023625",
+    "description": "Johnnie Walker Black Bottle 1ltr"
+  },
+  {
+    "barcode": "05000267014005",
+    "description": "Johnnie Walker Red Bottle 750ml"
+  },
+  {
+    "barcode": "06001398928482",
+    "description": "Smirnoff Storm Case 24x300ml"
+  },
+  {
+    "barcode": "06001398101281",
+    "description": "Squadron Dark Rum Bottle 750ml"
+  },
+  {
+    "barcode": "06001398919541",
+    "description": "Smirnoff 1818 Case 12x750ml"
+  },
+  {
+    "barcode": "06001398126994",
+    "description": "Smirnoff Ice Double Black & Guarana Can 250ml"
+  },
+  {
+    "barcode": "05010103943383",
+    "description": "Ciroc Red Berry Bottle 750ml"
+  },
+  {
+    "barcode": "05000267179896",
+    "description": "Johnnie Walker Red Icon Bottle 750ml"
+  },
+  {
+    "barcode": "06001398624216",
+    "description": "Smirnoff Red Pack Miniatures 12x50ml"
+  },
+  {
+    "barcode": "06001398929717",
+    "description": "Smirnoff Storm Pine Twist Case 24x300ml"
+  },
+  {
+    "barcode": "06001398128486",
+    "description": "Smirnoff Storm Bottle 300ml"
+  },
+  {
+    "barcode": "06001398129841",
+    "description": "Bell's Special Reserve & 2 Glasses Bottle 750ml"
+  },
+  {
+    "barcode": "06001398128561",
+    "description": "Johnnie Walker Double Black Tin Bottle 750ml"
+  },
+  {
+    "barcode": "05000281050492",
+    "description": "Singleton 15yo Dufftown Single Malt Bottle 750ml"
+  },
+  {
+    "barcode": "06001398117770",
+    "description": "Lupini Black Sambuca Bottle 750ml"
+  },
+  {
+    "barcode": "05000299223055",
+    "description": "Captain Morgan Spiced Gold Bottle 1ltr"
+  },
+  {
+    "barcode": "06001398130533",
+    "description": "Smirnoff Storm Berry Twist Can 440ml"
+  },
+  {
+    "barcode": "06001398930539",
+    "description": "Smirnoff Storm Berry Twist Case 24x440ml Cans"
+  },
+  {
+    "barcode": "06001398129995",
+    "description": "Tanqueray 10 & Citrus Cutter Bottle 750ml"
+  },
+  {
+    "barcode": "06001398127007",
+    "description": "Smirnoff 1818 Pet Bottle 200ml"
+  },
+  {
+    "barcode": "06001398128912",
+    "description": "Smirnoff 1818 Pineapple Bottle 200ml"
+  },
+  {
+    "barcode": "05000267134734",
+    "description": "Johnnie Walker Green Bottle 750ml"
+  },
+  {
+    "barcode": "06001398127021",
+    "description": "Smirnoff 1818 Bottle 1ltr"
+  },
+  {
+    "barcode": "06001398128219",
+    "description": "Smirnoff 1818 Citrus Bottle 750ml"
+  },
+  {
+    "barcode": "05000387003019",
+    "description": "Bell's Extra Special Bottle 750ml"
+  },
+  {
+    "barcode": "06009708010582",
+    "description": "Squadron Darm Rum & Metal Cup Bottle 750ml"
+  },
+  {
+    "barcode": "06001398129667",
+    "description": "Singleton 12yo Malt & Leather Bag Bottle 750ml"
+  },
+  {
+    "barcode": "05000292001001",
+    "description": "Vat 69 Bottle 750ml"
+  },
+  {
+    "barcode": "05000267091013",
+    "description": "Johnnie Walker Swing Bottle 750ml"
+  },
+  {
+    "barcode": "05000265101479",
+    "description": "White Horse Fine Old Scotch Whisky Bottle 750ml"
+  },
+  {
+    "barcode": "06001398926990",
+    "description": "Smirnoff Ice Double Black & Guarana Case 24x250ml Cans"
+  },
+  {
+    "barcode": "05010103942164",
+    "description": "Ciroc Summer Colada Bottle 750ml"
+  },
+  {
+    "barcode": "06001398129711",
+    "description": "Smirnoff Storm Pine Twist Bottle 300ml"
+  },
+  {
+    "barcode": "05000291024179",
+    "description": "Tanqueray Gin Flor De Sevill Bottle 750ml"
+  },
+  {
+    "barcode": "06001398122378",
+    "description": "Smirnoff Spin Bottle 300ml"
+  },
+  {
+    "barcode": "06001398129117",
+    "description": "Smirnoff & Passion Fruit Premix Bottle 250ml"
+  },
+  {
+    "barcode": "05000281034980",
+    "description": "Captain Morgan Black Spiced Rum Bottle 1ltr"
+  },
+  {
+    "barcode": "05000281039190",
+    "description": "Singleton Of Dufftown - Tailfire Bottle 750ml"
+  },
+  {
+    "barcode": "06001398123009",
+    "description": "Smirnoff Red Bottle 750ml"
+  },
+  {
+    "barcode": "05000267116440",
+    "description": "Johnnie Walker Double Black Bottle 750ml"
+  },
+  {
+    "barcode": "05000387006010",
+    "description": "Bell's Extra Special Bottle 375ml"
+  },
+  {
+    "barcode": "05000267173252",
+    "description": "Johnnie Walker Black Bottle 200ml"
+  },
+  {
+    "barcode": "05000267167695",
+    "description": "Johnnie Walker Red & 1 Glass Bottle 750ml"
+  },
+  {
+    "barcode": "05000213000700",
+    "description": "Guinness Draught Can 440ml"
+  },
+  {
+    "barcode": "05000387904408",
+    "description": "Bell's Extra Special Pack Miniatures 12x50ml"
+  },
+  {
+    "barcode": "05011013100132",
+    "description": "Bailey's Irish Cream Bottle 750ml"
+  },
+  {
+    "barcode": "05000267183121",
+    "description": "Johnnie Walker Red Bottle 750ml"
+  },
+  {
+    "barcode": "05010408000057",
+    "description": "Queen Elizabeth Finest Old Scotch Whisky Bottle 750ml"
+  },
+  {
+    "barcode": "05010408000033",
+    "description": "C&j Fine Old Scotch Whisky Bottle 750ml"
+  },
+  {
+    "barcode": "05000267165820",
+    "description": "Johnnie Walker Platinum Bottle 750ml"
+  },
+  {
+    "barcode": "06001398120879",
+    "description": "Montego Dark Rum Bottle 750ml"
+  },
+  {
+    "barcode": "05000267024011",
+    "description": "Johnnie Walker Black Bottle 750ml"
+  },
+  {
+    "barcode": "05010103800167",
+    "description": "J&b Rare Whisky Bottle 375ml"
+  },
+  {
+    "barcode": "06001398128790",
+    "description": "Smirnoff 1818 Pineapple Bottle 750ml"
+  },
+  {
+    "barcode": "06001398127533",
+    "description": "Smirnoff & Passion Fruit Premix Can 250ml"
+  },
+  {
+    "barcode": "05000267173238",
+    "description": "Johnnie Walker Red Bottle 200ml"
+  },
+  {
+    "barcode": "00088076161863",
+    "description": "Ciroc Bottle 750ml"
+  },
+  {
+    "barcode": "06001398128325",
+    "description": "Smirnoff 1818 Citrus Bottle 200ml"
+  },
+  {
+    "barcode": "00000050387168",
+    "description": "Bell's Extra Special Bottle 200ml"
+  },
+  {
+    "barcode": "05000267180731",
+    "description": "Johnnie Walker Green 750ml & 2 Tumblers Bottle 750ml"
+  },
+  {
+    "barcode": "05010103943178",
+    "description": "J&b Pocket Scotch Whisky Bottle 200ml"
+  },
+  {
+    "barcode": "05000267177144",
+    "description": "Johnnie Walker White Walker Bottle 750ml"
+  },
+  {
+    "barcode": "06009708010612",
+    "description": "Cape Velvet Original & Glass Bottle 750ml"
+  },
+  {
+    "barcode": "05000267025575",
+    "description": "Johnnie Walker Black Pack 12x50ml"
+  },
+  {
+    "barcode": "05000281002552",
+    "description": "Lagavulin 16yo Single Malt Bottle 750ml"
+  },
+  {
+    "barcode": "00674545000858",
+    "description": "Don Julio Reposado Tequila Bottle 750ml"
+  },
+  {
+    "barcode": "06001398105043",
+    "description": "Cape Velvet Original Bottle 750ml"
+  },
+  {
+    "barcode": "05000281002903",
+    "description": "Talisker 10yo Single Malt Bottle 750ml"
+  },
+  {
+    "barcode": "05000267133379",
+    "description": "Cardhu 12yo Single Malt Bottle 750ml"
+  },
+  {
+    "barcode": "05000267115306",
+    "description": "Johnnie Walker Blue Bottle 750ml"
+  },
+  {
+    "barcode": "05010103943505",
+    "description": "Ciroc Moschino Bottle 750ml"
+  },
+  {
+    "barcode": "06001398127014",
+    "description": "Smirnoff Red Bottle 500ml"
+  },
+  {
+    "barcode": "05000267179827",
+    "description": "Johnnie Walker Black Icon Bottle 750ml"
+  },
+  {
+    "barcode": "06001398119446",
+    "description": "Lupini Gold Sambuca Bottle 750ml"
+  },
+  {
+    "barcode": "05000281002989",
+    "description": "Oban 14yo Single Malt Bottle 750ml"
+  },
+  {
+    "barcode": "06001398129148",
+    "description": "Smirnoff Electric Mandarin Bottle 250ml"
+  },
+  {
+    "barcode": "05000267178493",
+    "description": "Johnnie Walker Song Of Ice Bottle 750ml"
+  },
+  {
+    "barcode": "00000050196111",
+    "description": "Black & White Scotch Whisky Bottle 750ml"
+  },
+  {
+    "barcode": "06001398119644",
+    "description": "Archers Schnapps Peach Bottle 750ml"
+  },
+  {
+    "barcode": "05000291020706",
+    "description": "Tanqueray Bottle 750ml"
+  },
+  {
+    "barcode": "05000267013602",
+    "description": "Johnnie Walker Red Bottle 1ltr"
+  },
+  {
+    "barcode": "06001398622373",
+    "description": "Smirnoff Spin Pack 6x300ml"
+  },
+  {
+    "barcode": "05000292001063",
+    "description": "Vat 69 Case 12x750ml"
+  },
+  {
+    "barcode": "06001398628405",
+    "description": "Smirnoff Storm Pine Twist Pack 6x440ml Cans"
+  },
+  {
+    "barcode": "05000267024004",
+    "description": "Johnnie Walker Black Bottle 750ml"
+  },
+  {
+    "barcode": "00700083084569",
+    "description": "Qualito Fusion Watermelon Bottle 750ml"
+  },
+  {
+    "barcode": "05000265001335",
+    "description": "White Horse Fine Old Scotch Whisky Bottle 1ltr"
+  },
+  {
+    "barcode": "05010103804387",
+    "description": "J&b Rare Whisky Case 12x750ml"
+  },
+  {
+    "barcode": "06001398928406",
+    "description": "Smirnoff Storm Pine Twist Case 24x440ml Cans"
+  },
+  {
+    "barcode": "05000196006157",
+    "description": "Black & White Scotch Whisky (pocket) Bottle 200ml"
+  },
+  {
+    "barcode": "06001398129124",
+    "description": "Smirnoff Electric Berry Bottle 250ml"
+  },
+  {
+    "barcode": "05010103937146",
+    "description": "Ciroc Pineapple Bottle 750ml"
+  },
+  {
+    "barcode": "05000267182582",
+    "description": "Johnnie Walker Black & 2 Glasses Bottle 750ml"
+  },
+  {
+    "barcode": "05000281050676",
+    "description": "Haig Club Clubman Single Grain Bottle 750ml"
+  },
+  {
+    "barcode": "07401005007842",
+    "description": "Ron Zacapa 23 Centenario Rum Bottle 750ml"
+  },
+  {
+    "barcode": "06001398128363",
+    "description": "Cape Velvet Strawberry Bottle 750ml"
+  },
+  {
+    "barcode": "05000387904668",
+    "description": "Bell's Special Reserve Bottle 750ml"
+  },
+  {
+    "barcode": "05000267180823",
+    "description": "Johnnie Walker Gold Reserve 750ml & 2 Glasses Bottle 750ml"
+  },
+  {
+    "barcode": "06001398130298",
+    "description": "Smirnoff 1818 Apple Bottle 750ml"
+  },
+  {
+    "barcode": "05010103800457",
+    "description": "J&b Rare Whisky Bottle 1ltr"
+  },
+  {
+    "barcode": "06001398119545",
+    "description": "Smirnoff 1818 Bottle 750ml"
+  },
+  {
+    "barcode": "16003430001921",
+    "description": "Franschhoek Cellar Sauvignon Blanc Case 6x750ml"
+  },
+  {
+    "barcode": "06001506907484",
+    "description": "Douglas Green W/w Assorted Red Case 6x750ml"
+  },
+  {
+    "barcode": "06003706000125",
+    "description": "Vergelegen Vin De Florence Bottle 750ml"
+  },
+  {
+    "barcode": "03500610093708",
+    "description": "Jp Chenet Ice Ltd Edition Demi Sec Rose Bottle 750ml"
+  },
+  {
+    "barcode": "06001506908948",
+    "description": "Franschhoek Cellar Brut Royal Mcc Nv Bottle 750ml"
+  },
+  {
+    "barcode": "06001812011929",
+    "description": "Douglas Green St Vincent Bottle 750ml"
+  },
+  {
+    "barcode": "04067700014535",
+    "description": "Jagermeister Bottle 1ltr"
+  },
+  {
+    "barcode": "06001812500027",
+    "description": "Zappa Blue Sambuca Bottle 750ml"
+  },
+  {
+    "barcode": "07630040402019",
+    "description": "Martini Extra Dry Bottle 750ml"
+  },
+  {
+    "barcode": "06003706001115",
+    "description": "Vergelegen Chardonnay Bottle 750ml"
+  },
+  {
+    "barcode": "06001506905749",
+    "description": "Bellingham Pear Tree White Bottle 750ml"
+  },
+  {
+    "barcode": "06001506011686",
+    "description": "Bellingham Paarl Riesling Bottle 750ml"
+  },
+  {
+    "barcode": "06001506905374",
+    "description": "Douglas Green Honey Badger Sweet Red Bottle 750ml"
+  },
+  {
+    "barcode": "06008869001798",
+    "description": "Steenberg The Black Swan Sauvignon Blanc Bottle 750ml"
+  },
+  {
+    "barcode": "06008869001507",
+    "description": "Klein Steenberg Cabernet Franc 2006 Bottle 750ml"
+  },
+  {
+    "barcode": "06001506906951",
+    "description": "Brampton Old Vines Red Bottle 750ml"
+  },
+  {
+    "barcode": "00707273574732",
+    "description": "Franschoek American Pale Ale Bottle 340ml"
+  },
+  {
+    "barcode": "06001660004302",
+    "description": "Boschendal Brut Rose Nv Bottle 750ml"
+  },
+  {
+    "barcode": "06001506900355",
+    "description": "The Beach House Sauvignon Blanc Bottle 750ml"
+  },
+  {
+    "barcode": "06001506900263",
+    "description": "Tall Horse Shiraz Bottle 750ml"
+  },
+  {
+    "barcode": "05010677551397",
+    "description": "Bacardi Breezer Lime Bottle 275ml"
+  },
+  {
+    "barcode": "06003706001054",
+    "description": "Vergelegen Sauvignon Blanc Bottle 750ml"
+  },
+  {
+    "barcode": "06001506909815",
+    "description": "Boschendal Demi Sec Mcc Bottle 750ml"
+  },
+  {
+    "barcode": "05010677710664",
+    "description": "Bombay Sapphire Gin Bottle 750ml"
+  },
+  {
+    "barcode": "06004867001242",
+    "description": "Graham Beck Mcc Celebration Pack (3x750ml) Bottle 750ml"
+  },
+  {
+    "barcode": "06001812501116",
+    "description": "Butlers Blue Caracao Bottle 750ml"
+  },
+  {
+    "barcode": "05010677554398",
+    "description": "Bacardi Breezer Watermelon Bottle 275ml"
+  },
+  {
+    "barcode": "06001506906364",
+    "description": "Boschendal Elgin Chardonnay Bottle 750ml"
+  },
+  {
+    "barcode": "06001660004623",
+    "description": "Boschendal 1685 Merlot Bottle 750ml"
+  },
+  {
+    "barcode": "06003706000910",
+    "description": "Vergelegen Estate Red 1998 Bottle 750ml"
+  },
+  {
+    "barcode": "06001660003824",
+    "description": "Boschendal 1685 Chardonnay Bottle 750ml"
+  },
+  {
+    "barcode": "00707273574596",
+    "description": "Franschoek Lager Bottle 340ml"
+  },
+  {
+    "barcode": "06006475000310",
+    "description": "Kanonkop Pinotage Bottle 1.5ltr"
+  },
+  {
+    "barcode": "06001506904674",
+    "description": "Bellingham The Bernard Series Old Vine Chenin Blanc Bottle 750ml"
+  },
+  {
+    "barcode": "07630040402569",
+    "description": "Martini Sparkling 0.0% Bottle 750ml"
+  },
+  {
+    "barcode": "06001812900292",
+    "description": "Bellingham Legacy Bottle 750ml"
+  },
+  {
+    "barcode": "00075496000407",
+    "description": "Angostura Aromatic Bitters Case 12x118ml"
+  },
+  {
+    "barcode": "06004867000269",
+    "description": "Graham Beck Brut Nv Bottle 1.5ltr"
+  },
+  {
+    "barcode": "06001506901222",
+    "description": "Tall Horse Chenin Blanc Bottle 750ml"
+  },
+  {
+    "barcode": "06001812011950",
+    "description": "Douglas Green St Celine Bottle 750ml"
+  },
+  {
+    "barcode": "06008869002610",
+    "description": "Steenberg Sparkling Sauvignon Blanc Bottle 750ml"
+  },
+  {
+    "barcode": "06002251000123",
+    "description": "Brampton Chardonnay Bottle 750ml"
+  },
+  {
+    "barcode": "06001506905008",
+    "description": "Bellingham The Bernard Series Bush Vine Pinotage Bottle 750ml"
+  },
+  {
+    "barcode": "06001506906739",
+    "description": "Douglas Green S/sensation Case 6x750ml"
+  },
+  {
+    "barcode": "00663194000388",
+    "description": "Tall Horse Merlot Bottle 750ml"
+  },
+  {
+    "barcode": "06001812010427",
+    "description": "Douglas Green St Augustine Bottle 750ml"
+  },
+  {
+    "barcode": "06001506908986",
+    "description": "Boschendal Chardonnay/pinot Noir Bottle 750ml"
+  },
+  {
+    "barcode": "06001660000588",
+    "description": "Boschendal The Pavilion Cabernet Sauvignon/shiraz Bottle 750ml"
+  },
+  {
+    "barcode": "06001812011875",
+    "description": "Douglas Green St Morand Bottle 750ml"
+  },
+  {
+    "barcode": "05010677330893",
+    "description": "Bacardi Breezer Green Apple Bottle 275ml"
+  },
+  {
+    "barcode": "06001506901215",
+    "description": "Tall Horse Pinotage Bottle 750ml"
+  },
+  {
+    "barcode": "06001506910095",
+    "description": "Graham Beck Railroad Red Bottle 750ml"
+  },
+  {
+    "barcode": "06001506901406",
+    "description": "Douglas Green Sunkissed Natural Sweet White Bottle 750ml"
+  },
+  {
+    "barcode": "06003706001085",
+    "description": "Vergelegen Estate White Bottle 750ml"
+  },
+  {
+    "barcode": "04067700013996",
+    "description": "Jagermeister Bottle 750ml"
+  },
+  {
+    "barcode": "05010677554602",
+    "description": "Bacardi Breezer Peach Bottle 275ml"
+  },
+  {
+    "barcode": "06001506907156",
+    "description": "Douglas Green Sunkissed Natural Sweet Red Bottle 750ml"
+  },
+  {
+    "barcode": "06004867001228",
+    "description": "Graham Beck Gorgeous Mcc Bottle 750ml"
+  },
+  {
+    "barcode": "08000570435402",
+    "description": "Martini Sparkling Asti Bottle 750ml"
+  },
+  {
+    "barcode": "07610113000083",
+    "description": "Bacardi Breezer Watermelon Can 440ml"
+  },
+  {
+    "barcode": "06004867000887",
+    "description": "Graham Beck Cuvee Clive Bottle 750ml"
+  },
+  {
+    "barcode": "05601012001310",
+    "description": "Mateus Brut Rose Bottle 750ml"
+  },
+  {
+    "barcode": "08001110016921",
+    "description": "Disaronno Amaretto Bottle 750ml"
+  },
+  {
+    "barcode": "05010677330862",
+    "description": "Bacardi Breezer Cranberry Bottle 275ml"
+  },
+  {
+    "barcode": "06008869001309",
+    "description": "Steenberg Semillon (wooded) Bottle 750ml"
+  },
+  {
+    "barcode": "06008869001231",
+    "description": "Steenberg Catharina Bottle 750ml"
+  },
+  {
+    "barcode": "06001812501123",
+    "description": "Butlers Van Der Hum Bottle 750ml"
+  },
+  {
+    "barcode": "06001812014913",
+    "description": "Douglas Green Shiraz Bottle 750ml"
+  },
+  {
+    "barcode": "06001812501178",
+    "description": "Butlers Banana Bottle 750ml"
+  },
+  {
+    "barcode": "06001506003506",
+    "description": "Douglas Green Chenin Blanc Bottle 750ml"
+  },
+  {
+    "barcode": "00663194000395",
+    "description": "Tall Horse Cabernet Sauvignon Bottle 750ml"
+  },
+  {
+    "barcode": "06005238002837",
+    "description": "Lovoka Coconut Creme Bottle 750ml"
+  },
+  {
+    "barcode": "05010677851053",
+    "description": "Grey Goose Vodka Bottle 750ml"
+  },
+  {
+    "barcode": "06001506908740",
+    "description": "Bellingham Homestead Sauvignon Blanc Bottle 750ml"
+  },
+  {
+    "barcode": "06001660004678",
+    "description": "Boschendal Larone Shiraz/mourvedre Bottle 750ml"
+  },
+  {
+    "barcode": "06001506900744",
+    "description": "Millstream Rose Bottle 750ml"
+  },
+  {
+    "barcode": "06001506404037",
+    "description": "Millstream Sauvignon Blanc Bottle 750ml"
+  },
+  {
+    "barcode": "06001506911641",
+    "description": "Bellingham Homestead Light Pinotage Bottle 750ml"
+  },
+  {
+    "barcode": "06003706000293",
+    "description": "Vergelegen Reserve Chardonnay Bottle 750ml"
+  },
+  {
+    "barcode": "06009801167572",
+    "description": "Kanonkop Kadette Pinotage Bottle 750ml"
+  },
+  {
+    "barcode": "06001812501130",
+    "description": "Butlers Ginger Bottle 750ml"
+  },
+  {
+    "barcode": "06001812500010",
+    "description": "Zappa Black Sambuca Bottle 750ml"
+  },
+  {
+    "barcode": "00707273574565",
+    "description": "Franschoek Stout Bottle 340ml"
+  },
+  {
+    "barcode": "06001506911368",
+    "description": "Butlers Springbokkie 750ml Gift Bottle 750ml"
+  },
+  {
+    "barcode": "05010677924009",
+    "description": "Martini Bianco Bottle 750ml"
+  },
+  {
+    "barcode": "06001812900018",
+    "description": "Po-10-c Bottle 750ml"
+  },
+  {
+    "barcode": "06003706000828",
+    "description": "Vergelegen Reserve Merlot Bottle 750ml"
+  },
+  {
+    "barcode": "06004867000139",
+    "description": "Graham Beck Brut Blanc De Blancs Vintage Bottle 750ml"
+  },
+  {
+    "barcode": "06009801167725",
+    "description": "Kanonkop Paul Sauer Bottle 750ml"
+  },
+  {
+    "barcode": "06001506907033",
+    "description": "African Secret Marula Cream Bottle 750ml"
+  },
+  {
+    "barcode": "06008869001293",
+    "description": "Steenberg Sparkling Sauvignon Blanc Bottle 750ml"
+  },
+  {
+    "barcode": "07610113000090",
+    "description": "Bacardi Breezer Peach Can 440ml"
+  },
+  {
+    "barcode": "06001812501109",
+    "description": "Butlers Triple Sec Bottle 750ml"
+  },
+  {
+    "barcode": "00700083403476",
+    "description": "Steenberg Lady R Brut Bottle 750ml"
+  },
+  {
+    "barcode": "08000570484004",
+    "description": "Martini Sparkling Rose Bottle 750ml"
+  },
+  {
+    "barcode": "07640175740146",
+    "description": "Bombay Sapphire Gin (tin) Bottle 750ml"
+  },
+  {
+    "barcode": "06001812010410",
+    "description": "Douglas Green St Raphael Bottle 750ml"
+  },
+  {
+    "barcode": "06001506907057",
+    "description": "Antonella Tiramisu Bottle 750ml"
+  },
+  {
+    "barcode": "06005238002677",
+    "description": "Lovoka Chocolate Bottle 750ml"
+  },
+  {
+    "barcode": "07640171033181",
+    "description": "William Lawson's Scotch Whisky Bottle 750ml"
+  },
+  {
+    "barcode": "06003706002006",
+    "description": "Vergelegen Shiraz Bottle 750ml"
+  },
+  {
+    "barcode": "06004867000702",
+    "description": "Graham Beck Brut Nv Bottle 375ml"
+  },
+  {
+    "barcode": "06004867000948",
+    "description": "Graham Beck Bliss Demi Sec Bottle 750ml"
+  },
+  {
+    "barcode": "05099357003647",
+    "description": "Kilbeggan Irish Whiskey Bottle 750ml"
+  },
+  {
+    "barcode": "06005238002851",
+    "description": "Lovoka Silk Bottle 750ml"
+  },
+  {
+    "barcode": "05011311042868",
+    "description": "Black Douglas Old Scotch Whisky Bottle 750ml"
+  },
+  {
+    "barcode": "03500610085338",
+    "description": "Jp Chenet Ice Ltd Edition Sparkling White Bottle 750ml"
+  },
+  {
+    "barcode": "06004867000634",
+    "description": "Graham Beck Brut Rose Vintage Bottle 750ml"
+  },
+  {
+    "barcode": "06001812901015",
+    "description": "Tang Sour Apple Bottle 750ml"
+  },
+  {
+    "barcode": "06003430001931",
+    "description": "Franschhoek Cellar Chardonnay (unwooded) Bottle 750ml"
+  },
+  {
+    "barcode": "06001812901503",
+    "description": "Antonella Grappa Cabernet Bottle 500ml"
+  },
+  {
+    "barcode": "06008869002085",
+    "description": "Steenberg Hms Rattlesnake Sauvignon Blanc Bottle 750ml"
+  },
+  {
+    "barcode": "06008869001736",
+    "description": "Steenberg Hms Sphynx Chardonnay Bottle 750ml"
+  },
+  {
+    "barcode": "06001812501154",
+    "description": "Butlers Cherry/kirsch Bottle 750ml"
+  },
+  {
+    "barcode": "00050037597172",
+    "description": "Tia Maria Coffee Bottle 750ml"
+  },
+  {
+    "barcode": "06001812011936",
+    "description": "Douglas Green St Claire Bottle 750ml"
+  },
+  {
+    "barcode": "05010677740319",
+    "description": "Bacardi Oakheart Spiced Rum Bottle 750ml"
+  },
+  {
+    "barcode": "06001660004050",
+    "description": "Boschendal Rose Garden Rose Bottle 750ml"
+  },
+  {
+    "barcode": "06001506400046",
+    "description": "Millstream Cinsaut/ruby Cabernet Bottle 750ml"
+  },
+  {
+    "barcode": "06002525000309",
+    "description": "Hamilton Russell Ashbourne Sauvignon Blanc/chardonnay Bottle 750ml"
+  },
+  {
+    "barcode": "06009801167411",
+    "description": "Kanonkop Kadette Pinotage Rose Bottle 750ml"
+  },
+  {
+    "barcode": "06001812011059",
+    "description": "Douglas Green Chardonnay Bottle 750ml"
+  },
+  {
+    "barcode": "06008869001224",
+    "description": "Steenberg Brut 1682 Chardonnay Bottle 750ml"
+  },
+  {
+    "barcode": "06001506906302",
+    "description": "Douglas Green St Celine Bottle 1.5ltr"
+  },
+  {
+    "barcode": "06005238002653",
+    "description": "Lovoka Caramel Bottle 750ml"
+  },
+  {
+    "barcode": "00080480300029",
+    "description": "Bombay London Dry Gin Bottle 750ml"
+  },
+  {
+    "barcode": "06004867000030",
+    "description": "Graham Beck Brut Nv Bottle 750ml"
+  },
+  {
+    "barcode": "06008869001330",
+    "description": "Steenberg Nebbiolo Bottle 750ml"
+  },
+  {
+    "barcode": "06001660000427",
+    "description": "Boschendal Le Bouquet Bottle 750ml"
+  },
+  {
+    "barcode": "06009801167145",
+    "description": "Kanonkop Kadette Bottle 1.5ltr"
+  },
+  {
+    "barcode": "06002525000279",
+    "description": "Hamilton Russell Ashbourne Pinotage Bottle 750ml"
+  },
+  {
+    "barcode": "06001812011943",
+    "description": "Douglas Green Merlot Bottle 750ml"
+  },
+  {
+    "barcode": "06001506908269",
+    "description": "Zappa Wasabi Sambuca Bottle 750ml"
+  },
+  {
+    "barcode": "06001506908757",
+    "description": "Bellingham Homestead Chardonnay Bottle 750ml"
+  },
+  {
+    "barcode": "07610113009888",
+    "description": "Bacardi Breezer Wild Fruit Bottle 275ml"
+  },
+  {
+    "barcode": "06001660000397",
+    "description": "Boschendal Blanc De Noir Bottle 750ml"
+  },
+  {
+    "barcode": "06001506907361",
+    "description": "Brampton Pinotage Bottle 750ml"
+  },
+  {
+    "barcode": "06001812942025",
+    "description": "Tang Sour Cherry Shooter Bottle 750ml"
+  },
+  {
+    "barcode": "06001506905756",
+    "description": "Bellingham Berry Bush Rose Bottle 750ml"
+  },
+  {
+    "barcode": "06001660000434",
+    "description": "Boschendal 1685 Grand Vin Blanc Bottle 750ml"
+  },
+  {
+    "barcode": "06001506900270",
+    "description": "Tall Horse Sauvignon Blanc Bottle 750ml"
+  },
+  {
+    "barcode": "06002525000255",
+    "description": "Hamilton Russell Chardonnay Bottle 750ml"
+  },
+  {
+    "barcode": "05010677914000",
+    "description": "Martini Rosso Bottle 750ml"
+  },
+  {
+    "barcode": "06001812011011",
+    "description": "Douglas Green Sauvignon Blanc Bottle 750ml"
+  },
+  {
+    "barcode": "06001812011912",
+    "description": "Douglas Green St Anna Bottle 750ml"
+  },
+  {
+    "barcode": "06001506906968",
+    "description": "Brampton Cabernet Sauvignon Bottle 750ml"
+  },
+  {
+    "barcode": "06001506910019",
+    "description": "Grey Goose & Riviera Glass Bottle 750ml"
+  },
+  {
+    "barcode": "07610113000106",
+    "description": "Bacardi Breezer Blackberry Can 440ml"
+  },
+  {
+    "barcode": "06001506905046",
+    "description": "Douglas Green St Anna Bottle 1.5ltr"
+  },
+  {
+    "barcode": "06001506905053",
+    "description": "Douglas Green St Claire Bottle 1.5ltr"
+  },
+  {
+    "barcode": "06001506906944",
+    "description": "Brampton Rose Bottle 750ml"
+  },
+  {
+    "barcode": "06001506904346",
+    "description": "The Beach House Rose Bottle 750ml"
+  },
+  {
+    "barcode": "06001506906920",
+    "description": "Brampton Sauvignon Blanc Bottle 750ml"
+  },
+  {
+    "barcode": "06004867001044",
+    "description": "Graham Beck Brut Zero Bottle 750ml"
+  },
+  {
+    "barcode": "06001812500034",
+    "description": "Zappa Red Sambuca Bottle 750ml"
+  },
+  {
+    "barcode": "00075496002005",
+    "description": "Angostura Aromatic Bitters Bottle 200ml"
+  },
+  {
+    "barcode": "06001506904704",
+    "description": "Bellingham The Bernard Series Small Barrel Smv Bottle 750ml"
+  },
+  {
+    "barcode": "06001506906524",
+    "description": "Boschendal Jean De Long Blanc De Blancs Mcc Bottle 750ml"
+  },
+  {
+    "barcode": "06001506910101",
+    "description": "Graham Beck Chardonnay Waterside Bottle 750ml"
+  },
+  {
+    "barcode": "06004867001365",
+    "description": "Graham Beck Bliss Nectar Rose Nv Bottle 750ml"
+  },
+  {
+    "barcode": "06001506911207",
+    "description": "Jagermeister & Green Shot Glass Gift Bottle 750ml"
+  },
+  {
+    "barcode": "06001812942001",
+    "description": "Strawberry Lips Tequila Bottle 750ml"
+  },
+  {
+    "barcode": "06008869001545",
+    "description": "Steenberg Shiraz Bottle 750ml"
+  },
+  {
+    "barcode": "06009801167121",
+    "description": "Kanonkop Pinotage Bottle 750ml"
+  },
+  {
+    "barcode": "06001506911108",
+    "description": "Tall Horse Shiraz Bottle 1.5ltr"
+  },
+  {
+    "barcode": "07640175740047",
+    "description": "Bombay Sapphire Gin Bottle 750ml"
+  },
+  {
+    "barcode": "06001506904513",
+    "description": "Bellingham The Bernard Series Basket Press Syrah Bottle 750ml"
+  },
+  {
+    "barcode": "07610113000878",
+    "description": "Bacardi Carta Negra Black Bottle 750ml"
+  },
+  {
+    "barcode": "08000570552505",
+    "description": "Martini Sparkling Prosecco Bottle 750ml"
+  },
+  {
+    "barcode": "06001812501147",
+    "description": "Butlers Peppermint Bottle 750ml"
+  },
+  {
+    "barcode": "06001506904544",
+    "description": "Douglas Green Ribshack Red Bottle 750ml"
+  },
+  {
+    "barcode": "06001506910002",
+    "description": "Grey Goose Vodka Bottle 750ml"
+  },
+  {
+    "barcode": "00080686016403",
+    "description": "Knob Creek Bourbon Whiskey Bottle 750ml"
+  },
+  {
+    "barcode": "07640171030005",
+    "description": "Dewar's 12yo Blended Scotch Whisky Bottle 750ml"
+  },
+  {
+    "barcode": "06001660004500",
+    "description": "Boschendal Grande Cuvee Brut Bottle 750ml"
+  },
+  {
+    "barcode": "06001506905657",
+    "description": "Boschendal Brut Nv Bottle 750ml"
+  },
+  {
+    "barcode": "05601007001516",
+    "description": "Ferreira White Port Bottle 750ml"
+  },
+  {
+    "barcode": "05010677025027",
+    "description": "Bacardi Gold (carta Oro) Rum Bottle 750ml"
+  },
+  {
+    "barcode": "06001660004524",
+    "description": "Boschendal Boschen Blanc Bottle 750ml"
+  },
+  {
+    "barcode": "06001812010007",
+    "description": "Douglas Green Cabernet Sauvignon Bottle 750ml"
+  },
+  {
+    "barcode": "04067700021854",
+    "description": "Jagermeister Coolpack Bottle 750ml"
+  },
+  {
+    "barcode": "06001812500058",
+    "description": "Zappa Green Sambuca Bottle 750ml"
+  },
+  {
+    "barcode": "06009801167091",
+    "description": "Kanonkop Cabernet Sauvignon Bottle 750ml"
+  },
+  {
+    "barcode": "06001506908764",
+    "description": "Bellingham Homestead Pinotage Bottle 750ml"
+  },
+  {
+    "barcode": "00088320004366",
+    "description": "Glengoyne 12yo Single Malt Whisky Bottle 750ml"
+  },
+  {
+    "barcode": "06003706000736",
+    "description": "Vergelegen Reserve Cabernet Sauvignon Bottle 750ml"
+  },
+  {
+    "barcode": "06001812501161",
+    "description": "Butlers Strawberry Bottle 750ml"
+  },
+  {
+    "barcode": "06001506909594",
+    "description": "Boschendal 1685 Cabernet Sauvignon Bottle 750ml"
+  },
+  {
+    "barcode": "06001660001714",
+    "description": "Boschendal 1685 Shiraz Bottle 750ml"
+  },
+  {
+    "barcode": "06009801167930",
+    "description": "Kanonkop Kadette Cabernet Sauvignon Bottle 750ml"
+  },
+  {
+    "barcode": "00000060063434",
+    "description": "Roses Passion Fruit Bottle 750ml"
+  },
+  {
+    "barcode": "06008869001385",
+    "description": "Klein Steenberg Sauvignon Blanc Bottle 750ml"
+  },
+  {
+    "barcode": "06001506904605",
+    "description": "Douglas Green Sunkissed Natural Sweet Rose Bottle 750ml"
+  },
+  {
+    "barcode": "00000060056733",
+    "description": "Roses Lime Cordial Bottle 750ml"
+  },
+  {
+    "barcode": "06008869002115",
+    "description": "Klein Steenberg Cabernet Sauvignon Bottle 750ml"
+  },
+  {
+    "barcode": "06001506910453",
+    "description": "Boschendal Nicolas Bottle 750ml"
+  },
+  {
+    "barcode": "06001506908153",
+    "description": "Douglass Green Sunkissed Sprizzo Rose Bottle 750ml"
+  },
+  {
+    "barcode": "06001506907644",
+    "description": "Strawberry Lips Tequila & Glass Bottle 750ml"
+  },
+  {
+    "barcode": "06001506906975",
+    "description": "Brampton Shiraz Bottle 750ml"
+  },
+  {
+    "barcode": "06001660003800",
+    "description": "Boschendal Lanoy Bottle 750ml"
+  },
+  {
+    "barcode": "06001812500041",
+    "description": "Zappa Original Sambuca Bottle 750ml"
+  },
+  {
+    "barcode": "06008869001415",
+    "description": "Steenberg Merlot Bottle 750ml"
+  },
+  {
+    "barcode": "00000040677699",
+    "description": "Jagermeister Miniature 20ml"
+  },
+  {
+    "barcode": "05010677015622",
+    "description": "Bacardi Superior (carta Blanca) Rum Bottle 750ml"
+  },
+  {
+    "barcode": "06001506905732",
+    "description": "Bellingham Big Oak Red Bottle 750ml"
+  },
+  {
+    "barcode": "06001506909464",
+    "description": "Tant Sannie Se Melktert Bottle 750ml"
+  },
+  {
+    "barcode": "06001506900232",
+    "description": "Tall Horse Chardonnay Bottle 750ml"
+  },
+  {
+    "barcode": "06004867000108",
+    "description": "Graham Beck Brut Rose Bottle 750ml"
+  },
+  {
+    "barcode": "00707273574503",
+    "description": "Franschoek Saison Bottle 340ml"
+  },
+  {
+    "barcode": "05601012011500",
+    "description": "Mateus Vinho De Mesa Rose Bottle 750ml"
+  },
+  {
+    "barcode": "06003706000200",
+    "description": "Vergelegen Mill Race Red (cabernet/merlot) Bottle 750ml"
+  },
+  {
+    "barcode": "05010677011365",
+    "description": "Bacardi Breezer Blackberry Bottle 275ml"
+  },
+  {
+    "barcode": "06001660000571",
+    "description": "Boschendal The Pavillon Blanc Bottle 750ml"
+  },
+  {
+    "barcode": "06008869001590",
+    "description": "Steenberg Brut 1682 Pinot Noir Bottle 750ml"
+  },
+  {
+    "barcode": "06001506911634",
+    "description": "Bellingham Homestead Sauvignon Blanc Light Bottle 750ml"
+  },
+  {
+    "barcode": "06001506908771",
+    "description": "Bellingham Homestead Series Shiraz Bottle 750ml"
+  },
+  {
+    "barcode": "06009801167039",
+    "description": "Kanonkop Kadette Red Bottle 750ml"
+  },
+  {
+    "barcode": "06002323021100",
+    "description": "Imagin Citrus Gin & Tonic Case 24x275ml"
+  },
+  {
+    "barcode": "06002323022145",
+    "description": "KWV 5y0 & Mini Ball Gift Pack Bottle 750ml"
+  },
+  {
+    "barcode": "06002323431039",
+    "description": "Laborie Cap Classique Blanc De Blanc Bottle 750ml"
+  },
+  {
+    "barcode": "06002323004509",
+    "description": "KWV Classic Collection Pinotage Rose Bottle 750ml"
+  },
+  {
+    "barcode": "06002323410737",
+    "description": "KWV Chenin Blanc Bottle 750ml"
+  },
+  {
+    "barcode": "06009705940592",
+    "description": "Fruit Lagoon Mojito Mix Bottle 750ml"
+  },
+  {
+    "barcode": "06009705940707",
+    "description": "Carvo Chocolate & Vodka Infused Bottle 750ml"
+  },
+  {
+    "barcode": "06002323005926",
+    "description": "KWV Pearly Bay Cape Sweet Rose Bottle 750ml"
+  },
+  {
+    "barcode": "06002323005988",
+    "description": "KWV Cape Tawny Bottle 750ml"
+  },
+  {
+    "barcode": "06002323020066",
+    "description": "Hooch Fox - Blackcurrant Bottle 275ml"
+  },
+  {
+    "barcode": "06002323400233",
+    "description": "KWV Roodeberg Bottle 750ml"
+  },
+  {
+    "barcode": "04750021000201",
+    "description": "Stolichnaya Vodka Bottle 750ml"
+  },
+  {
+    "barcode": "06001466006319",
+    "description": "Kandi Milk Tart Cream Bottle 750ml"
+  },
+  {
+    "barcode": "06002323710226",
+    "description": "Laborie Pineau De Laborie Bottle 375ml"
+  },
+  {
+    "barcode": "06002323400332",
+    "description": "KWV Cabernet Sauvignon Bottle 750ml"
+  },
+  {
+    "barcode": "06002323021896",
+    "description": "KWV & Cola Bottle 275ml"
+  },
+  {
+    "barcode": "06002323019893",
+    "description": "KWV Earth's Essence Shiraz No Sulphur Bottle 750ml"
+  },
+  {
+    "barcode": "06002323414230",
+    "description": "KWV Chardonnay Bottle 750ml"
+  },
+  {
+    "barcode": "06002323004035",
+    "description": "KWV Chenin Blanc/chardonnay Bottle 750ml"
+  },
+  {
+    "barcode": "06001466006074",
+    "description": "Poncho's 1910 Tequila Caramel Bottle 750ml"
+  },
+  {
+    "barcode": "06002323022756",
+    "description": "KWV Annabelle Cuvee Blanche Bottle 750ml"
+  },
+  {
+    "barcode": "06002323400240",
+    "description": "KWV Roodeberg Bottle 1.5ltr"
+  },
+  {
+    "barcode": "06002323404637",
+    "description": "Laborie Cabernet Sauvignon Bottle 750ml"
+  },
+  {
+    "barcode": "06002323301936",
+    "description": "Laborie Merlot Bottle 750ml"
+  },
+  {
+    "barcode": "06002323015970",
+    "description": "KWV Cruxland Gin Bottle 750ml"
+  },
+  {
+    "barcode": "06002323004646",
+    "description": "KWV Cabernet/merlot Bottle 750ml"
+  },
+  {
+    "barcode": "06002323022268",
+    "description": "Imagin Citrus Gin Bottle 750ml"
+  },
+  {
+    "barcode": "06002323810230",
+    "description": "KWV Van Der Hum Bottle 750ml"
+  },
+  {
+    "barcode": "06002323023029",
+    "description": "KWV 10yo & Glasses Bottle 750ml"
+  },
+  {
+    "barcode": "06002323712336",
+    "description": "KWV Red Muscadel Bottle 750ml"
+  },
+  {
+    "barcode": "06002323015536",
+    "description": "KWV 12yo Signature Ltd Release Brandy Bottle 750ml"
+  },
+  {
+    "barcode": "06002323021568",
+    "description": "Laborie Rose Bottle 750ml"
+  },
+  {
+    "barcode": "06002323014508",
+    "description": "Laborie Double Carry Pack Bottle 750ml"
+  },
+  {
+    "barcode": "06002323013501",
+    "description": "KWV Classic Cabernet Sauvignon Bottle 750ml"
+  },
+  {
+    "barcode": "06002323005391",
+    "description": "KWV 15yo Bottle 750ml"
+  },
+  {
+    "barcode": "06002323007098",
+    "description": "Laborie Cap Classique Brut Rose Bottle 750ml"
+  },
+  {
+    "barcode": "06002323002406",
+    "description": "KWV 3yo Case 12x750ml"
+  },
+  {
+    "barcode": "06002323023166",
+    "description": "Hooch Fox - Passion Fruit Bottle 275ml"
+  },
+  {
+    "barcode": "06009600220027",
+    "description": "Wild African Cream Bottle 750ml"
+  },
+  {
+    "barcode": "06002323310839",
+    "description": "Laborie Sauvignon Blanc Bottle 750ml"
+  },
+  {
+    "barcode": "06002323003762",
+    "description": "KWV 3yo Bottle 200ml"
+  },
+  {
+    "barcode": "06001466006104",
+    "description": "Kandi Cookies & Cream Bottle 750ml"
+  },
+  {
+    "barcode": "06002323400639",
+    "description": "KWV Shiraz Bottle 750ml"
+  },
+  {
+    "barcode": "06002323005117",
+    "description": "Laborie Cap Classique Brut Bottle 750ml"
+  },
+  {
+    "barcode": "06002323020073",
+    "description": "Hooch Fox - Blackcurrant Pack 6x275ml"
+  },
+  {
+    "barcode": "06002323417736",
+    "description": "Laborie Chardonnay Bottle 750ml"
+  },
+  {
+    "barcode": "06002323021902",
+    "description": "KWV & Cola Pack 6x275ml"
+  },
+  {
+    "barcode": "06002323005957",
+    "description": "KWV Cape Ruby Bottle 750ml"
+  },
+  {
+    "barcode": "06009705940639",
+    "description": "Poncho's 1910 Tequila Coffee Bottle 750ml"
+  },
+  {
+    "barcode": "06002323022961",
+    "description": "Wild African Cream & 2 Glasses Bottle 750ml"
+  },
+  {
+    "barcode": "06002323020189",
+    "description": "Hooch Fox - Strawberry Bottle 275ml"
+  },
+  {
+    "barcode": "06002323022640",
+    "description": "Laborie Le Grand Nectar Mcc Bottle 750ml"
+  },
+  {
+    "barcode": "06002323020080",
+    "description": "Hooch Fox - Blackcurrant Case 24x275ml Nrb"
+  },
+  {
+    "barcode": "06009600220041",
+    "description": "Wild African Cream Bottle 1ltr"
+  },
+  {
+    "barcode": "06002323800231",
+    "description": "KWV 5yo Bottle 750ml"
+  },
+  {
+    "barcode": "06002323800163",
+    "description": "KWV 3yo Bottle 750ml"
+  },
+  {
+    "barcode": "06002323022244",
+    "description": "Imagin Classic Gin Bottle 750ml"
+  },
+  {
+    "barcode": "06002323300533",
+    "description": "KWV Merlot Bottle 750ml"
+  },
+  {
+    "barcode": "06002323400530",
+    "description": "KWV Pinotage Bottle 750ml"
+  },
+  {
+    "barcode": "06002323413530",
+    "description": "KWV Sauvignon Blanc Bottle 750ml"
+  },
+  {
+    "barcode": "06002323012504",
+    "description": "KWV Roodeberg Rose Bottle 750ml"
+  },
+  {
+    "barcode": "06002323009665",
+    "description": "KWV Pearly Bay Cape Sweet Rose Bottle 1.5ltr"
+  },
+  {
+    "barcode": "06002323022909",
+    "description": "KWV Cruxland Gin 750ml & 2 Glasses Bottle 750ml"
+  },
+  {
+    "barcode": "06002323011705",
+    "description": "KWV Café Culture Choc Mousse Bottle 750ml"
+  },
+  {
+    "barcode": "06002323020097",
+    "description": "Hooch Fox - Apple Bottle 275ml"
+  },
+  {
+    "barcode": "06009600220478",
+    "description": "Wild African Cream Case 6x1ltr"
+  },
+  {
+    "barcode": "06002323801337",
+    "description": "KWV 10yo Bottle 750ml"
+  },
+  {
+    "barcode": "06009705940653",
+    "description": "Carvo Caramel & Vodka Infusion Bottle 750ml"
+  },
+  {
+    "barcode": "06002323016298",
+    "description": "KWV Roodeberg & Decanter Bottle 750ml"
+  },
+  {
+    "barcode": "06002323006206",
+    "description": "KWV Medium Cream Bottle 750ml"
+  },
+  {
+    "barcode": "06002323013549",
+    "description": "KWV Café Culture Coffee Pinotage & Choc Mousse Bottle 750ml"
+  },
+  {
+    "barcode": "06002323407836",
+    "description": "Laborie Merlot/cabernet Sauvignon Bottle 750ml"
+  },
+  {
+    "barcode": "06002323021117",
+    "description": "Imagin Classic Gin & Tonic Case 24x275ml"
+  },
+  {
+    "barcode": "06002323015710",
+    "description": "KWV Roodeberg Reserve Bottle 750ml"
+  },
+  {
+    "barcode": "06002323013259",
+    "description": "KWV Roodeberg Red (tube) Bottle 750ml"
+  },
+  {
+    "barcode": "00084380422041",
+    "description": "Pravda Vodka Bottle 750ml"
+  },
+  {
+    "barcode": "06009705940691",
+    "description": "Sour Monkey Sour Apple Bottle 750ml"
+  },
+  {
+    "barcode": "06002323022886",
+    "description": "KWV Cruxland Gin & 2 Glasses Bottle 750ml"
+  },
+  {
+    "barcode": "06002323013419",
+    "description": "Ciao Cosmo Tetra 1ltr"
+  },
+  {
+    "barcode": "06002323011996",
+    "description": "Ciao Paradise Bliss Tetra 2ltr"
+  },
+  {
+    "barcode": "06002323012764",
+    "description": "Ciao Vodcano Tetra 2ltr"
+  },
+  {
+    "barcode": "06002323006473",
+    "description": "KWV Bonne Esperance Select White Bib 5ltr"
+  },
+  {
+    "barcode": "06002323019534",
+    "description": "Ciao Cosmo Light Tetra 2ltr"
+  },
+  {
+    "barcode": "06001240231739",
+    "description": "Hooch Fox - Ruby Grapefruit Bottle 275ml"
+  },
+  {
+    "barcode": "06002323317432",
+    "description": "KWV Pearly Bay Dry Red Bottle 750ml"
+  },
+  {
+    "barcode": "06002323005612",
+    "description": "KWV Café Culture Coffee Pinotage Bottle 750ml"
+  },
+  {
+    "barcode": "06002323020837",
+    "description": "Hooch Fox - Pineapple Bottle 275ml"
+  },
+  {
+    "barcode": "06002323004004",
+    "description": "KWV Cabernet/shiraz Bottle 750ml"
+  },
+  {
+    "barcode": "06002323002123",
+    "description": "KWV 5yo Bottle 200ml"
+  },
+  {
+    "barcode": "06002323001386",
+    "description": "Laborie Shiraz Bottle 750ml"
+  },
+  {
+    "barcode": "06002323313632",
+    "description": "KWV Pearly Bay Dry White Bottle 750ml"
+  },
+  {
+    "barcode": "06002323806486",
+    "description": "Laborie Alambic Brandy Bottle 500ml"
+  },
+  {
+    "barcode": "06002323021858",
+    "description": "KWV Annabelle Cuvee Rose Bottle 750ml"
+  },
+  {
+    "barcode": "06001466004346",
+    "description": "Sour Monkey Sour Berry Bottle 750ml"
+  },
+  {
+    "barcode": "06002323012597",
+    "description": "KWV Shiraz Rose Bottle 750ml"
+  }
+]

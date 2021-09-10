@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf8">
+        <style>
+            *, *::before, *::after {
+                box-sizing: border-box;
+            }
+
+            html, body {
+                margin: 0;
+                padding: 0;
+            }
+
+            body {
+
+                overflow: hidden;
+            }
+
+            main {
+                width: 100%;
+                height: 100%;
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+                align-items: center;
+            }
+
+            .barcode-list {
+                width: 100%;
+                height: 40vh;
+                list-style: none;
+                margin: 0;
+                padding: 0;
+                overflow: hidden;
+                position: relative;
+            }
+
+            .result-set {
+                position: relative;
+                display: flex;
+                min-width: 100%;
+                height: 100%;
+                transition: transform 0.5s ease-in-out;
+            }
+
+            .result-set:empty::before {
+                opacity: 1;
+                transition: opacity 0.2s;
+            }
+
+            .mic-active .result-set:empty::before {
+                opacity: 0;
+                transition: opacity 0.2s;
+            }
+
+            .result-set:empty::before {
+                content: "Welcome to my shop :)\A \A Please place an order by \A clicking the microphone below \A \A Tip: try saying 'Castle Lite 340 millilitre six pack'";
+                text-align: center;
+                white-space: pre;
+                position: absolute;
+                top: 0;
+                left: 50%;
+                transform: translate(-50%, 0);
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                color: #555;
+                font-size: 1.5rem;
+            }
+
+            .result-set[data-no-match]:empty::before {
+                content: "Could not match '" attr(data-no-match) "'";
+            }
+
+            .result-set[data-error]:empty::before {
+                content: attr(data-error);
+            }
+
+            .move {
+                position: absolute;
+                background: #eee;
+                opacity: 0.8;
+                transition: transform 0.3s, opacity 0.3s;
+                width: 4rem;
+                height: 4rem;
+                border-radius: 50%;
+                border: none;
+                top: calc(50% - 8rem);
+                font-size: 2.5rem;
+                cursor: pointer;
+                left: 2rem;
+                box-shadow: 0 2px 2px rgba(0,0,0,0.2);
+            }
+
+            .move:hover {
+                opacity: 1;
+                transform: scale(1.25);
+            }
+
+            .move + .move {
+                left: auto;
+                right: 2rem;
+            }
+
+            .move::before {
+                content: "\2039";
+            }
+
+            .move + .move::before {
+                content: "\203A";
+            }
+
+
+            .result-set:empty ~ button {
+                opacity: 0;
+            }
+
+
+            .barcode-list li {
+                width: 100vw;
+                height: 100%;
+                text-align: center;
+                flex: 1 0 100%;
+            }
+
+            .barcode-list li::after {
+                display: block;
+                text-align: center;
+                content: attr(data-description);
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                font-size: 1.25rem;
+            }
+
+            .barcode-list svg {
+                width: 30vh;
+                height: 20vh;
+            }
+
+            .filters {
+                height: 30vh;
+            }
+
+            .mic {
+                width: 4rem;
+                height: 4rem;
+                border-radius: 50%;
+                border: none;
+                background: #eee;
+                position: relative;
+                cursor: pointer;
+                color: #777;
+            }
+
+            .mic::before {
+                color: #777;
+                position: absolute;
+                background: radial-gradient(circle at 50% 1.25rem, currentColor, currentColor .375rem, transparent calc(.375rem + 0.3px)),
+                            radial-gradient(circle at 50% .375rem, currentColor, currentColor .375rem, transparent calc(.375rem + 0.3px)),
+                            linear-gradient(90deg, transparent, transparent calc(50% - 1px), currentColor calc(50% - 1px), currentColor calc(50% + 1px), transparent calc(50% + 1px)),
+                            linear-gradient(0, currentColor, currentColor 1.5px, transparent 2px, transparent .75rem, currentColor .75rem);
+                top: calc(50% - 0.125rem);
+                left: 50%;
+                width: 0.75rem;
+                height: 2rem;
+                transform: translate(-50%, -50%);
+                content: '';
+                border-radius: 0.375rem .375rem 0 0;
+            }
+
+            .mic-active .mic::before {
+                background: radial-gradient(circle at 50% 1.25rem, white, white .375rem, transparent calc(.375rem + 0.3px)),
+                            radial-gradient(circle at 50% .375rem, white, white .375rem, transparent calc(.375rem + 0.3px)),
+                            linear-gradient(90deg, transparent, transparent calc(50% - 1px), white calc(50% - 1px), white calc(50% + 1px), transparent calc(50% + 1px)),
+                            linear-gradient(0, white, white 1.5px, transparent 2px, transparent .75rem, white .75rem);
+            }
+
+            .mic::after {
+                color: #777;
+                position: absolute;
+                background: radial-gradient(circle at 50% 0, transparent 0, transparent 7px, currentColor 7.5px, currentColor 8.5px, transparent 9px);
+                top: calc(50% + 0.5rem);
+                left: 50%;
+                width: 1.25rem;
+                height: 1.25rem;
+                margin: -.375rem -.625rem;
+                content: '';
+            }
+
+            .mic-active .mic::after {
+                background: radial-gradient(circle at 50% 0, transparent 0, transparent 7px, white 7.5px, white 8.5px, transparent 9px);
+            }
+
+            .mic-active .mic {
+                background: #FF3D7F;
+                color: white;
+                animation: pulse 2s linear infinite;
+            }
+
+            @keyframes pulse {
+                0% {
+                    box-shadow: 0 0 2px 0px white,
+                            0 0 1px 3px rgba(255, 61, 127, 0);
+                    animation-timing-function: linear;
+                }
+                20% {
+                    box-shadow: 0 0 2px 2px white,
+                            0 0 1px 5px #ff3d7f;
+                    animation-timing-function: linear;
+                }
+                100% {
+                    animation-timing-function: ease-out;
+                    box-shadow: 0 0 2px 15px white,
+                    0 0 4px 18px rgba(255, 61, 127, 0);
+                }
+            }
+
+            .actions {
+                height: 30vh;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+            }
+
+            .actions input {
+                margin-top: 2rem;
+                height: 2.5rem;
+                border: 1px solid #aaa;
+                padding: 0 0.5rem;
+                font-size: 1.25rem;
+                width: 20rem;
+                outline: none;
+                border-radius: 4px;
+            }
+
+            .actions input:placeholder-shown {
+                font-style: italic;
+            }
+
+            canvas {
+                position: absolute;
+                top: 0;
+                left: 50%;
+                transform: translate(-50%, 0);
+                width: 480px;
+                height: 280px;
+                background: #eee;
+                pointer-events: none;
+                opacity: 0;
+                transition: opacity 0.2s;
+            }
+
+            .mic-active canvas {
+                opacity: 1;
+                transition: opacity 0.2s 0.2s;
+            }
+        </style>
+
+    </head>
+    <body>
+        <main>
+            <div class="filters">
+
+            </div>
+            <ul class="barcode-list">
+                <div class="result-set"></div>
+                <button class="move" id="left"></button>
+                <button class="move" id="right"></button>
+                <canvas></canvas>
+            </ul>
+            <div class="actions">
+                <button class="mic">
+    
+                </button>
+                <input type="text" id="textFilter" placeholder="Filter products..." />
+            </div>
+        </main>
+        <script src="https://cdn.jsdelivr.net/npm/jsbarcode@3.11.4/dist/barcodes/JsBarcode.code128.min.js"></script>
+        <script>
+            let products = [];
+
+            fetch('products.json')
+                .then(res => res.json())
+                .then(result => {
+                    products = result;
+                });
+
+            const productList = document.querySelector('.result-set');
+            const startRecogButton = document.querySelector('.mic');
+            const isSpeechRecogitionSupported = ('SpeechRecognition' in window) || ('webkitSpeechRecognition' in window);
+            if (!isSpeechRecogitionSupported) {
+                productList.setAttribute('data-error', 'Sorry, your browser does not support speech recognition');
+                startRecogButton.setAttribute('disabled', 'disabled');
+            }
+
+            const filterBox = document.getElementById('textFilter');
+            const mainContainer = document.querySelector('main');
+            const speechContainer = document.getElementsByClassName('speech-text')[0];
+            let isMicActive = false;
+
+            let stream = null;
+            let filteredProducts = [];
+            let recogition;
+            if (isSpeechRecogitionSupported) {
+                recognition = new (window.SpeechRecognition || window.webkitSpeechRecognition)();
+                recognition.continuous = false;
+                recognition.lang = 'en-ZA';
+                recognition.interimResults = true;
+                recognition.maxAlternatives = 1;
+                
+                recognition.onresult = ev => populateBarcodes(ev.results);
+                recognition.onend = () => {
+                    mainContainer.classList.remove('mic-active');
+                    isMicActive = false;
+                }
+            }
+
+            filterBox.addEventListener('keyup', queueSearch, false);
+            let searchTimeout = null;
+
+            function queueSearch(e) {
+                if (searchTimeout) {
+                    clearTimeout(searchTimeout);
+                    searchTimeout = null;
+                }
+
+                searchTimeout = setTimeout(textFilteredProducts, 500);
+            }
+
+            function textFilteredProducts() {
+                productList.innerHTML = '';
+                step = 0;
+                productList.style.transform = '';
+                productList.removeAttribute('data-no-match');
+                productList.removeAttribute('data-error');
+
+                const text = filterBox.value.toLowerCase()
+                    .replace('six pack', '6x')
+                    .replace('six-pack', '6x')
+                    .replace('6pack', '6x')
+                    .replace('6-pack', '6x')
+                    .replace('savannah', 'savanna');
+                const splitText = text.split(' ');
+
+                filteredProducts = products.filter(product =>
+                    splitText.reduce((acc, curText) => acc * (product.description.toLowerCase().indexOf(curText) > -1), true)
+                );
+
+                if (!filteredProducts.length) {
+                    productList.setAttribute('data-no-match', text);
+                    setTimeout(() => {
+                        productList.removeAttribute('data-no-match');
+                    }, 5000);
+                    return;
+                }
+
+                filteredProducts.forEach(displayProduct);
+            }
+
+            startRecogButton.addEventListener('click', startRecognition, false);
+
+            let step = 0;
+            let width = window.innerWidth;
+
+            function startRecognition(e) {
+                if (isMicActive) {
+                    return;
+                }
+
+                if (!stream) {
+                    navigator.mediaDevices.getUserMedia({audio: true, video: false})
+                        .then(audioStream => {
+                            stream = audioStream;
+                            renderWaveform();
+                        });
+                }
+
+                recognition.start();
+                mainContainer.classList.add('mic-active');
+                isMicActive = true;
+                productList.innerHTML = '';
+                step = 0;
+                productList.style.transform = '';
+                productList.removeAttribute('data-no-match');
+                productList.removeAttribute('data-error');
+                if (stream) {
+                    renderWaveform();
+                }
+            }
+
+            function populateBarcodes(results)
+            {
+                const result = results[0];
+                if (!result.isFinal) {
+                    return;
+                }
+
+                const text = result[0].transcript
+                    .toLowerCase()
+                    .replace('six pack', '6x')
+                    .replace('six-pack', '6x')
+                    .replace('6pack', '6x')
+                    .replace('6-pack', '6x')
+                    .replace('savannah', 'savanna');
+
+                if (text.toLowerCase().indexOf('amazing') > -1 || text.toLowerCase().indexOf('awesome') > -1) {
+                    productList.setAttribute('data-error', 'Thank you! :)');
+                    setTimeout(() => {
+                        productList.removeAttribute('data-error');
+                    }, 3000);
+                    return;
+                }
+                const splitText = text.toLowerCase().split(' ');
+                filteredProducts = products.filter(product =>
+                    splitText.reduce((acc, curText) => acc * (product.description.toLowerCase().indexOf(curText) > -1), true)
+                );
+
+                if (!filteredProducts.length) {
+                    productList.setAttribute('data-no-match', text);
+                    setTimeout(() => {
+                        productList.removeAttribute('data-no-match');
+                    }, 5000);
+                    return;
+                }
+
+                filteredProducts.forEach(displayProduct);
+            }
+
+            function displayProduct(product) {
+                const listItem = document.createElement('li');
+                const svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+                svg.id = `barcode-${product.barcode}`;
+                listItem.appendChild(svg);
+                listItem.setAttribute('data-description', product.description);
+                productList.appendChild(listItem);
+
+                JsBarcode(`#barcode-${product.barcode}`, product.barcode);
+            }
+
+            const moveLeftBtn = document.getElementById('left');
+            const moveRightBtn = document.getElementById('right');
+
+            moveLeftBtn.addEventListener('click', () => changeStep(-1), false);
+            moveRightBtn.addEventListener('click', () => changeStep(1), false);
+
+            function changeStep(num) {
+                step += num;
+                step = Math.max(0, Math.min(step, filteredProducts.length - 1));
+                productList.style.transform = `translateX(${-step * width}px)`;
+            }
+
+            const canvas = document.querySelector('canvas');
+            canvas.width = canvas.clientWidth;
+            canvas.height = canvas.clientHeight;
+            const ctx = canvas.getContext('2d');
+            ctx.fillStyle = ctx.strokeStyle = '#FF3D7F';
+            ctx.lineCap = 'round';
+            const lines = 16;
+            const lineSpace = 12;
+            const lineWidth = canvas.width / lines;
+            ctx.lineWidth = lineWidth - lineSpace;
+
+            function renderWaveform() {
+                const audioCtx = new AudioContext();
+                const analyser = audioCtx.createAnalyser();
+                const source = audioCtx.createMediaStreamSource(stream);
+                source.connect(analyser);
+
+                analyser.fftSize = 32;
+                const bufferLength = analyser.frequencyBinCount;
+                const dataArray = new Uint8Array(bufferLength);
+                const WIDTH = canvas.width;
+                const HEIGHT = canvas.height;
+
+                const draw = () => {
+                    if (!isMicActive) {
+                        return;
+                    }
+
+                    ctx.clearRect(0, 0, WIDTH, HEIGHT);
+                    analyser.getByteFrequencyData(dataArray);
+                    let x = (lineSpace / 2 + lineWidth) / 2;
+                    let barHeight;
+
+                    for (let i = 0; i < bufferLength; i++)
+                    {
+                        let barHeight = dataArray[i]/2 * Math.pow(Math.E, -Math.pow(i - 8, 2)/32) * 2;
+                        
+                        ctx.beginPath();
+                        ctx.moveTo(x, (HEIGHT - barHeight) / 2);
+                        ctx.lineTo(x, (HEIGHT + barHeight) / 2);
+                        ctx.stroke();
+                        x += lineWidth;
+                    }
+
+                    requestAnimationFrame(draw);
+                }
+
+                draw();
+            }
+        </script>
+    </body>
+</html>
